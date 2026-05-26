@@ -3,23 +3,23 @@
 set -ueo pipefail
 
 if [[ ! -e 2020_21 ]]; then
-    gh repo clone susi-org/01;
+    if [[ ! -e 01 ]]; then gh repo clone susi-org/01; fi
     cp 01 2020_21
 fi
 if [[ ! -e 2021_22 ]]; then
-    gh repo clone susi-org/02;
+    if [[ ! -e 02 ]]; then gh repo clone susi-org/02; fi
     cp 02 2021_22
 fi
 if [[ ! -e 2022_23 ]]; then
-    gh repo clone susi-org/03;
+    if [[ ! -e 03 ]]; then gh repo clone susi-org/03; fi
     cp 03 2022_23
 fi
 if [[ ! -e 2023_24 ]]; then
-    gh repo clone susi-org/04;
+    if [[ ! -e 04 ]]; then gh repo clone susi-org/04; fi
     cp 04 2023_24
 fi
 if [[ ! -e 2024_25 ]]; then
-    gh repo clone susi-org/05;
+    if [[ ! -e 05 ]]; then gh repo clone susi-org/05; fi
     cp 05 2024_25
 fi
 

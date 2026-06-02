@@ -5,23 +5,28 @@ set -ueo pipefail
 rm -rf 2020_21 2021_22 2022_23 2023_24 2024_25 || true
 
 if [[ ! -e 2020_21 ]]; then
-    if [[ ! -e 01 ]]; then gh repo clone susi-org/01; fi
+    if [[ ! -e 01 ]]; then gh repo clone susi-org/01
+    else cd 01; git pull; cd ..; fi
     cp -r 01 2020_21
 fi
 if [[ ! -e 2021_22 ]]; then
-    if [[ ! -e 02 ]]; then gh repo clone susi-org/02; fi
+    if [[ ! -e 02 ]]; then gh repo clone susi-org/02
+    else cd 01; git pull; cd ..; fi
     cp -r 02 2021_22
 fi
 if [[ ! -e 2022_23 ]]; then
-    if [[ ! -e 03 ]]; then gh repo clone susi-org/03; fi
+    if [[ ! -e 03 ]]; then gh repo clone susi-org/03
+    else cd 01; git pull; cd ..; fi
     cp -r 03 2022_23
 fi
 if [[ ! -e 2023_24 ]]; then
-    if [[ ! -e 04 ]]; then gh repo clone susi-org/04; fi
+    if [[ ! -e 04 ]]; then gh repo clone susi-org/04
+    else cd 01; git pull; cd ..; fi
     cp -r 04 2023_24
 fi
 if [[ ! -e 2024_25 ]]; then
-    if [[ ! -e 05 ]]; then gh repo clone susi-org/05; fi
+    if [[ ! -e 05 ]]; then gh repo clone susi-org/05
+    else cd 01; git pull; cd ..; fi
     cp -r 05 2024_25
 fi
 

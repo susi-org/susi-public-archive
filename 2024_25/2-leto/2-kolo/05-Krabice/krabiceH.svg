@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="116.53123mm"
+   height="87.430305mm"
+   viewBox="0 0 116.53123 87.430305"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="krabiceH.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.0544998"
+     inkscape:cx="418.20777"
+     inkscape:cy="253.67478"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="false" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="Triangle-24"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="0.5"
+       markerHeight="0.5"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-9-7-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="0.5"
+       markerHeight="0.5"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-6-2-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-2-0-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="0.5"
+       markerHeight="0.5"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-1-4-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-2-0-1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="0.5"
+       markerHeight="0.5"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-1-4-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-1-9-7"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="0.5"
+       markerHeight="0.5"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-4-8-34" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-1-9-0"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="0.5"
+       markerHeight="0.5"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-4-8-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-1-9-4-01"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="0.5"
+       markerHeight="0.5"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-4-8-6-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-1-9-4-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="0.5"
+       markerHeight="0.5"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-4-8-6-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-2-0-1-5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="0.5"
+       markerHeight="0.5"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-1-4-0-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-2-0-1-5-1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="0.5"
+       markerHeight="0.5"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-1-4-0-6-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-2-0-1-5-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="0.5"
+       markerHeight="0.5"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-1-4-0-6-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-9-3-3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="0.5"
+       markerHeight="0.5"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-6-0-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-24-14-3-7"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="0.5"
+       markerHeight="0.5"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-7-82-4-2" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-39.440637,-18.468016)">
+    <path
+       style="fill:#1498d7;stroke:#efeb00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1;marker-end:url(#Triangle-24-14-3-7)"
+       d="m 70.322978,82.877451 h 7.385446"
+       id="path6-5-13-9-12"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;fill:#1a1a1a;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round"
+       x="83.862679"
+       y="21.82733"
+       id="text6-8-79"><tspan
+         sodipodi:role="line"
+         id="tspan6-6-5"
+         style="font-size:4.93889px;letter-spacing:0px;fill:#1a1a1a;stroke-width:1"
+         x="83.862679"
+         y="21.82733">hrdina</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;fill:#1a1a1a;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round"
+       x="52.998978"
+       y="21.82733"
+       id="text6-0"><tspan
+         sodipodi:role="line"
+         id="tspan6-4"
+         style="font-size:4.93889px;letter-spacing:0px;fill:#1a1a1a;stroke-width:1"
+         x="52.998978"
+         y="21.82733">hrdina</tspan></text>
+    <path
+       style="fill:#ff4e00;fill-opacity:1;stroke:#ffa400;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1;marker-end:url(#Triangle-2-0-1-5)"
+       d="m 101.18667,103.77975 h 7.38546"
+       id="path6-3-4-7-0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#ff4e00;fill-opacity:1;stroke:#ffa400;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1;marker-end:url(#Triangle-2-0-1-5-1)"
+       d="m 101.18667,103.77975 h 7.38546"
+       id="path6-3-4-7-0-9"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#ff4e00;fill-opacity:1;stroke:#ffa400;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1;marker-end:url(#Triangle-2-0-1-5-8)"
+       d="m 70.322969,103.77975 h 7.38546"
+       id="path6-3-4-7-0-5"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;fill:#1a1a1a;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round"
+       x="115.37991"
+       y="42.324478"
+       id="text6-8-7-2"><tspan
+         sodipodi:role="line"
+         id="tspan6-6-2-5"
+         style="font-size:4.93889px;letter-spacing:0px;fill:#1a1a1a;stroke-width:1"
+         x="115.37991"
+         y="42.324478">západ</tspan></text>
+    <path
+       style="fill:#1498d7;stroke:#bd00ff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1;marker-end:url(#Triangle-24)"
+       d="m 70.322976,20.170582 h 7.385446"
+       id="path6-5"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;fill:#1a1a1a;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round"
+       x="53.587395"
+       y="42.729622"
+       id="text6-8-7"><tspan
+         sodipodi:role="line"
+         id="tspan6-6-2"
+         style="font-size:4.93889px;letter-spacing:0px;fill:#1a1a1a;stroke-width:1"
+         x="53.587395"
+         y="42.729622">vchod</tspan></text>
+    <path
+       style="fill:#1498d7;stroke:#00ff00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1;marker-end:url(#Triangle-1-9-7)"
+       d="m 110.34766,41.072872 h -7.38544"
+       id="path6-8-9-2"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#1498d7;stroke:#00ff00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1;marker-end:url(#Triangle-1-9-0)"
+       d="m 70.322979,41.072872 h 7.385443"
+       id="path6-8-9-62"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;fill:#1a1a1a;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round"
+       x="146.744"
+       y="63.225559"
+       id="text6-5-00-3"><tspan
+         sodipodi:role="line"
+         id="tspan6-67-6-2"
+         style="font-size:4.93889px;letter-spacing:0px;fill:#1a1a1a;stroke-width:1"
+         x="146.744"
+         y="63.225559">apríl</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;fill:#1a1a1a;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round"
+       x="147.78459"
+       y="104.92645"
+       id="text6-5-2-30-9"><tspan
+         sodipodi:role="line"
+         id="tspan6-67-2-4-82"
+         style="font-size:4.93889px;letter-spacing:0px;fill:#1a1a1a;stroke-width:1"
+         x="147.78459"
+         y="104.92645">mor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;fill:#1a1a1a;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round"
+       x="39.071667"
+       y="105.02051"
+       id="text6-5-2-30-5"><tspan
+         sodipodi:role="line"
+         id="tspan6-67-2-4-1"
+         style="font-size:4.93889px;letter-spacing:0px;fill:#1a1a1a;stroke-width:1"
+         x="39.071667"
+         y="105.02051">moreplavectvo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;fill:#1a1a1a;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round"
+       x="53.153313"
+       y="63.225555"
+       id="text6-5-2-30-3"><tspan
+         sodipodi:role="line"
+         id="tspan6-67-2-4-8"
+         style="font-size:4.93889px;letter-spacing:0px;fill:#1a1a1a;stroke-width:1"
+         x="53.153313"
+         y="63.225555">január</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;fill:#1a1a1a;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round"
+       x="52.990543"
+       y="83.998817"
+       id="text6-5-4-8-0"><tspan
+         sodipodi:role="line"
+         id="tspan6-67-4-7-22"
+         style="font-size:4.93889px;letter-spacing:0px;fill:#1a1a1a;stroke-width:1"
+         x="52.990543"
+         y="83.998817">Toyota</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;fill:#1a1a1a;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round"
+       x="85.747322"
+       y="84.297867"
+       id="text6-5-4-8-0-9"><tspan
+         sodipodi:role="line"
+         id="tspan6-67-4-7-22-8"
+         style="font-size:4.93889px;letter-spacing:0px;fill:#1a1a1a;stroke-width:1"
+         x="85.747322"
+         y="84.297867">auto</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;fill:#1a1a1a;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round"
+       x="114.33329"
+       y="84.129051"
+       id="text6-5-4-8-0-9-0"><tspan
+         sodipodi:role="line"
+         id="tspan6-67-4-7-22-8-0"
+         style="font-size:4.93889px;letter-spacing:0px;fill:#1a1a1a;stroke-width:1"
+         x="114.33329"
+         y="84.129051">zápcha</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:1.13506px;fill:#1498d7;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round"
+       x="35.503601"
+       y="7.4018111"
+       id="text5"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:Calibri;stroke:none;stroke-width:1"
+         x="35.503601"
+         y="7.4018111" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;fill:#1a1a1a;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round"
+       x="89.152451"
+       y="63.625877"
+       id="text6-4-8"><tspan
+         sodipodi:role="line"
+         id="tspan6-2-9"
+         style="font-weight:bold;font-size:4.93889px;letter-spacing:0px;fill:#1a1a1a;stroke-width:1"
+         x="89.152451"
+         y="63.625877">?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;fill:#1a1a1a;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round"
+       x="120.01614"
+       y="63.625877"
+       id="text6-4-1"><tspan
+         sodipodi:role="line"
+         id="tspan6-2-3"
+         style="font-weight:bold;font-size:4.93889px;letter-spacing:0px;fill:#1a1a1a;stroke-width:1"
+         x="120.01614"
+         y="63.625877">?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;fill:#1a1a1a;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round"
+       x="89.152443"
+       y="105.43047"
+       id="text6-4-0-4"><tspan
+         sodipodi:role="line"
+         id="tspan6-2-78-3"
+         style="font-weight:bold;font-size:4.93889px;letter-spacing:0px;fill:#1a1a1a;stroke-width:1"
+         x="89.152443"
+         y="105.43047">?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;fill:#1a1a1a;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round"
+       x="120.01614"
+       y="105.43047"
+       id="text6-4-84-0"><tspan
+         sodipodi:role="line"
+         id="tspan6-2-4-1"
+         style="font-weight:bold;font-size:4.93889px;letter-spacing:0px;fill:#1a1a1a;stroke-width:1"
+         x="120.01614"
+         y="105.43047">?</tspan></text>
+    <path
+       style="fill:#1498d7;stroke:#00b2db;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1;marker-end:url(#Triangle-9-7-4)"
+       d="m 132.05038,61.975161 h 7.38545"
+       id="path6-2-7-0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#1498d7;stroke:#efeb00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1;marker-end:url(#Triangle-2-0-2)"
+       d="m 101.18668,82.877451 h 7.38545"
+       id="path6-3-4-4"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#1498d7;stroke:#00b2db;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1;marker-end:url(#Triangle-1-9-4-01)"
+       d="m 70.322978,61.975152 h 7.385446"
+       id="path6-8-9-6-7"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#ff4e00;fill-opacity:1;stroke:#ffa400;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1;marker-end:url(#Triangle-2-0-1)"
+       d="m 132.05037,103.77975 h 7.38546"
+       id="path6-3-4-7"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;fill:#1a1a1a;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round"
+       x="89.152451"
+       y="42.723591"
+       id="text6-4-51-2"><tspan
+         sodipodi:role="line"
+         id="tspan6-2-34-9"
+         style="font-weight:bold;font-size:4.93889px;letter-spacing:0px;fill:#1a1a1a;stroke-width:1"
+         x="89.152451"
+         y="42.723591">?</tspan></text>
+    <path
+       style="fill:#1498d7;stroke:#00b2db;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1;marker-end:url(#Triangle-1-9-4-6)"
+       d="m 101.18669,61.975152 h 7.38544"
+       id="path6-8-9-6-0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#1498d7;stroke:#ff0000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1;marker-end:url(#Triangle-9-3-3)"
+       d="m 101.18668,82.877451 h 7.38545"
+       id="path6-2-3-8"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>

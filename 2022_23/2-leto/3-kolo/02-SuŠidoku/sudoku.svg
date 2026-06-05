@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="684.315"
+   height="684.31451"
+   overflow="hidden"
+   version="1.1"
+   id="svg342"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs110">
+    <clipPath
+       id="clip0">
+      <rect
+         x="0"
+         y="0"
+         width="1280"
+         height="720"
+         id="rect2" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#clip0)"
+     id="g340"
+     transform="translate(-221.806,-17.8425)">
+    <path
+       d="m 299.397,19.8425 h 75.59 v 75.5906 h -75.59 z"
+       fill="#cd3c37"
+       fill-rule="evenodd"
+       id="path114" />
+    <path
+       d="m 374.987,19.8425 h 75.591 v 75.5906 h -75.591 z"
+       fill="#cd3c37"
+       fill-rule="evenodd"
+       id="path116" />
+    <path
+       d="m 374.987,95.4331 h 75.591 v 75.5909 h -75.591 z"
+       fill="#cd3c37"
+       fill-rule="evenodd"
+       id="path118" />
+    <path
+       d="M 677.349,95.4331 H 752.94 V 171.024 H 677.349 Z"
+       fill="#cd3c37"
+       fill-rule="evenodd"
+       id="path120" />
+    <path
+       d="m 374.987,171.024 h 75.591 v 75.59 h -75.591 z"
+       fill="#cd3c37"
+       fill-rule="evenodd"
+       id="path122" />
+    <path
+       d="m 677.349,171.024 h 75.591 v 75.59 h -75.591 z"
+       fill="#cd3c37"
+       fill-rule="evenodd"
+       id="path124" />
+    <path
+       d="m 752.94,171.024 h 75.59 v 75.59 h -75.59 z"
+       fill="#cd3c37"
+       fill-rule="evenodd"
+       id="path126" />
+    <path
+       d="m 828.53,171.024 h 75.591 v 75.59 H 828.53 Z"
+       fill="#cd3c37"
+       fill-rule="evenodd"
+       id="path128" />
+    <path
+       d="m 526.168,246.614 h 75.591 v 75.591 h -75.591 z"
+       fill="#cd3c37"
+       fill-rule="evenodd"
+       id="path130" />
+    <path
+       d="m 601.759,246.614 h 75.59 v 75.591 h -75.59 z"
+       fill="#cd3c37"
+       fill-rule="evenodd"
+       id="path132" />
+    <path
+       d="m 374.987,322.205 h 75.591 v 75.59 h -75.591 z"
+       fill="#cd3c37"
+       fill-rule="evenodd"
+       id="path134" />
+    <path
+       d="m 526.168,322.205 h 75.591 v 75.59 h -75.591 z"
+       fill="#cd3c37"
+       fill-rule="evenodd"
+       id="path136" />
+    <path
+       d="m 828.53,322.205 h 75.591 v 75.59 H 828.53 Z"
+       fill="#cd3c37"
+       fill-rule="evenodd"
+       id="path138" />
+    <path
+       d="m 223.806,397.795 h 75.591 v 75.591 h -75.591 z"
+       fill="#cd3c37"
+       fill-rule="evenodd"
+       id="path140" />
+    <path
+       d="m 299.397,397.795 h 75.59 v 75.591 h -75.59 z"
+       fill="#cd3c37"
+       fill-rule="evenodd"
+       id="path142" />
+    <path
+       d="m 374.987,397.795 h 75.591 v 75.591 h -75.591 z"
+       fill="#cd3c37"
+       fill-rule="evenodd"
+       id="path144" />
+    <path
+       d="m 526.168,397.795 h 75.591 v 75.591 h -75.591 z"
+       fill="#cd3c37"
+       fill-rule="evenodd"
+       id="path146" />
+    <path
+       d="m 752.94,397.795 h 75.59 v 75.591 h -75.59 z"
+       fill="#cd3c37"
+       fill-rule="evenodd"
+       id="path148" />
+    <path
+       d="m 828.53,397.795 h 75.591 v 75.591 H 828.53 Z"
+       fill="#cd3c37"
+       fill-rule="evenodd"
+       id="path150" />
+    <path
+       d="m 450.578,548.976 h 75.59 v 75.591 h -75.59 z"
+       fill="#cd3c37"
+       fill-rule="evenodd"
+       id="path152" />
+    <path
+       d="m 526.168,548.976 h 75.591 v 75.591 h -75.591 z"
+       fill="#cd3c37"
+       fill-rule="evenodd"
+       id="path154" />
+    <path
+       d="m 828.53,548.976 h 75.591 v 75.591 H 828.53 Z"
+       fill="#cd3c37"
+       fill-rule="evenodd"
+       id="path156" />
+    <path
+       d="m 526.168,624.567 h 75.591 v 75.59 h -75.591 z"
+       fill="#cd3c37"
+       fill-rule="evenodd"
+       id="path158" />
+    <path
+       d="M 299.397,17.8425 V 702.157"
+       stroke="#000000"
+       stroke-width="1.33333"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path160" />
+    <path
+       d="M 374.987,17.8425 V 702.157"
+       stroke="#000000"
+       stroke-width="1.33333"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path162" />
+    <path
+       d="M 450.578,17.8425 V 702.157"
+       stroke="#000000"
+       stroke-width="4"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path164" />
+    <path
+       d="M 526.168,17.8425 V 702.157"
+       stroke="#000000"
+       stroke-width="1.33333"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path166" />
+    <path
+       d="M 601.759,17.8425 V 702.157"
+       stroke="#000000"
+       stroke-width="1.33333"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path168" />
+    <path
+       d="M 677.349,17.8425 V 702.157"
+       stroke="#000000"
+       stroke-width="4"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path170" />
+    <path
+       d="M 752.94,17.8425 V 702.157"
+       stroke="#000000"
+       stroke-width="1.33333"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path172" />
+    <path
+       d="M 828.53,17.8425 V 702.157"
+       stroke="#000000"
+       stroke-width="1.33333"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path174" />
+    <path
+       d="M 221.806,95.4331 H 906.121"
+       stroke="#000000"
+       stroke-width="1.33333"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path176" />
+    <path
+       d="M 221.806,171.024 H 906.121"
+       stroke="#000000"
+       stroke-width="1.33333"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path178" />
+    <path
+       d="M 221.806,246.614 H 906.121"
+       stroke="#000000"
+       stroke-width="4"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path180" />
+    <path
+       d="M 221.806,322.205 H 906.121"
+       stroke="#000000"
+       stroke-width="1.33333"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path182" />
+    <path
+       d="M 221.806,397.795 H 906.121"
+       stroke="#000000"
+       stroke-width="1.33333"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path184" />
+    <path
+       d="M 221.806,473.386 H 906.121"
+       stroke="#000000"
+       stroke-width="4"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path186" />
+    <path
+       d="M 221.806,548.976 H 906.121"
+       stroke="#000000"
+       stroke-width="1.33333"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path188" />
+    <path
+       d="M 221.806,624.567 H 906.121"
+       stroke="#000000"
+       stroke-width="1.33333"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path190" />
+    <path
+       d="M 223.806,17.8425 V 702.157"
+       stroke="#000000"
+       stroke-width="4"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path192" />
+    <path
+       d="M 904.121,17.8425 V 702.157"
+       stroke="#000000"
+       stroke-width="4"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path194" />
+    <path
+       d="M 221.806,19.8425 H 906.121"
+       stroke="#000000"
+       stroke-width="4"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path196" />
+    <path
+       d="M 221.806,700.157 H 906.121"
+       stroke="#000000"
+       stroke-width="4"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path198" />
+    <text
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="53px"
+       id="text200"
+       x="851.82599"
+       y="78"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">4</text>
+    <text
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="53px"
+       id="text204"
+       x="625.05402"
+       y="78"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">9</text>
+    <text
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="53px"
+       id="text208"
+       x="473.87299"
+       y="78"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">3</text>
+    <text
+       fill="#ffffff"
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="53px"
+       id="text212"
+       x="398.28201"
+       y="78"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">5</text>
+    <text
+       fill="#ffffff"
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="53px"
+       id="text216"
+       x="322.69199"
+       y="78"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">1</text>
+    <text
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="53px"
+       id="text220"
+       x="851.82599"
+       y="153"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">7</text>
+    <text
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="53px"
+       id="text224"
+       x="625.05402"
+       y="153"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">4</text>
+    <text
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="53px"
+       id="text228"
+       x="247.101"
+       y="153"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">9</text>
+    <text
+       fill="#ffffff"
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="53px"
+       id="text232"
+       x="851.82599"
+       y="229"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">9</text>
+    <text
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="53px"
+       id="text236"
+       x="625.05402"
+       y="229"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">6</text>
+    <text
+       fill="#ffffff"
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="53px"
+       id="text240"
+       x="398.28201"
+       y="229"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">4</text>
+    <text
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="53px"
+       id="text244"
+       x="322.69199"
+       y="229"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">3</text>
+    <text
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="53px"
+       id="text248"
+       x="851.82599"
+       y="304"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">3</text>
+    <text
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="53px"
+       id="text252"
+       x="776.23499"
+       y="304"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">9</text>
+    <text
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="53px"
+       id="text256"
+       x="700.64502"
+       y="304"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">6</text>
+    <text
+       fill="#ffffff"
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="53px"
+       id="text260"
+       x="625.05402"
+       y="304"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">1</text>
+    <text
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="53px"
+       id="text264"
+       x="473.87299"
+       y="304"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">7</text>
+    <text
+       fill="#ffffff"
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="53px"
+       id="text268"
+       x="549.46399"
+       y="380"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">4</text>
+    <text
+       fill="#ffffff"
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="53px"
+       id="text272"
+       x="398.28201"
+       y="380"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">9</text>
+    <text
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="53px"
+       id="text276"
+       x="322.69199"
+       y="380"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">6</text>
+    <text
+       fill="#ffffff"
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="53px"
+       id="text280"
+       x="851.82599"
+       y="456"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">5</text>
+    <text
+       fill="#ffffff"
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="53px"
+       id="text284"
+       x="776.23499"
+       y="456"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">8</text>
+    <text
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="53px"
+       id="text288"
+       x="700.64502"
+       y="456"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">4</text>
+    <text
+       fill="#ffffff"
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="53px"
+       id="text292"
+       x="247.101"
+       y="456"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">3</text>
+    <text
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="53px"
+       id="text296"
+       x="776.23499"
+       y="531"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">3</text>
+    <text
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="53px"
+       id="text300"
+       x="398.28201"
+       y="531"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">7</text>
+    <text
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="53px"
+       id="text304"
+       x="322.69199"
+       y="531"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">2</text>
+    <text
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="53px"
+       id="text308"
+       x="776.23499"
+       y="607"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">2</text>
+    <text
+       fill="#ffffff"
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="53px"
+       id="text312"
+       x="473.87299"
+       y="607"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">9</text>
+    <text
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="53px"
+       id="text316"
+       x="851.82599"
+       y="682"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">8</text>
+    <text
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="53px"
+       id="text320"
+       x="776.23499"
+       y="682"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">4</text>
+    <text
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="53px"
+       id="text324"
+       x="700.64502"
+       y="682"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">7</text>
+    <text
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="53px"
+       id="text328"
+       x="398.28201"
+       y="682"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">3</text>
+    <text
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="53px"
+       id="text332"
+       x="322.69199"
+       y="682"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">9</text>
+    <text
+       font-family="'Cambria Math', 'Cambria Math_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="53px"
+       id="text336"
+       x="247.101"
+       y="682"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53px;font-family:'Minion Pro';-inkscape-font-specification:'Minion Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">1</text>
+  </g>
+</svg>

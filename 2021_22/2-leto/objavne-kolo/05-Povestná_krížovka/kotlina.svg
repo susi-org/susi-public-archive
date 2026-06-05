@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="kotlina.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.53362093"
+     inkscape:cx="329.82214"
+     inkscape:cy="413.21468"
+     inkscape:window-width="1366"
+     inkscape:window-height="726"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1932"
+       is_visible="true"
+       lpeversion="1" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke-width:0.284745;paint-order:markers fill stroke"
+       id="path520"
+       sodipodi:type="arc"
+       sodipodi:cx="98.158829"
+       sodipodi:cy="130.55821"
+       sodipodi:rx="81.793373"
+       sodipodi:ry="81.793373"
+       sodipodi:start="0.00068550499"
+       sodipodi:end="6.2831853"
+       sodipodi:arc-type="slice"
+       d="M 179.95218,130.61428 A 81.793373,81.793373 0 0 1 98.116777,212.35157 81.793373,81.793373 0 0 1 16.36546,130.53018 81.793373,81.793373 0 0 1 98.172846,48.76484 81.793373,81.793373 0 0 1 179.9522,130.55821 H 98.158829 Z" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.10306px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+       id="text186"
+       transform="matrix(1.1015869,0,0,1.1015869,-3.0671228,4.6820315)"><textPath
+         xlink:href="#path520"
+         id="textPath582"
+         style="font-size:6.10306px">doklad, overenie na letisku, inšpekčná inštitúcia, kedy sa dá vybaviť, výpomoc v domácnosti, partneri, zosúladený pohyb, venček, obedová prestávka, menu, pečenie, </textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+       x="60.280251"
+       y="138.4727"
+       id="text597"><tspan
+         sodipodi:role="line"
+         id="tspan595"
+         style="stroke-width:0.264583"
+         x="60.280251"
+         y="138.4727">Barčova lúka</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="60.280251"
+         y="146.4102"
+         id="tspan599">hmyz</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="60.280251"
+         y="154.3477"
+         id="tspan601">primitívna diaľková doprava</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="60.280251"
+         y="162.2852"
+         id="tspan603">(poloha ďalšej šifry)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.87778px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;stroke-width:0.264583"
+       x="9.7117167"
+       y="20.037241"
+       id="text1865"><tspan
+         sodipodi:role="line"
+         id="tspan1863"
+         style="font-size:9.87778px;stroke-width:0.264583"
+         x="9.7117167"
+         y="20.037241">1 Šarády</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.68079;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="m 50.084111,134.04502 -0.272618,23.94182"
+       id="path1930"
+       inkscape:path-effect="#path-effect1932"
+       inkscape:original-d="m 50.084111,134.04502 c -0.09723,7.98082 -0.181442,15.96142 -0.272618,23.94182" />
+  </g>
+</svg>

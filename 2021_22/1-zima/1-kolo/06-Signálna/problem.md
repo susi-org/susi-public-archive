@@ -1,0 +1,11 @@
+\begin{align*}
+&\num{78003}-\num{6579}-\num{17}\cdot\num{2}\cdot\num{5}\\
+&\num{1198}\cdot\num{688}-\num{565}\\
+&\num{7}\cdot\num{5}\cdot\num{3}\cdot\num{1}-\num{12}\\
+&\num{2158181}-\num{5}-\num{12684}-\num{14}\\
+&\num{455}\cdot\num{248}-\num{353}\cdot\num{13}\cdot\num{9}\\
+&\num{187}\cdot\num{84}-\num{350}\\
+&\num{3961}\cdot\num{84}-\num{331}-\num{154}-\num{6541}\\
+&\num{9154307}-\num{1543}\cdot\num{265}\\
+&\num{26}\cdot\num{7}-\num{4}
+\end{align*}

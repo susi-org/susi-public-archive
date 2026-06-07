@@ -49,19 +49,18 @@ for year in *_*; do
     cd "$year"
     rm -fr .git .github .gitattributes
     rm -f ./*.yaml README.md
-    mvc 1 1-zima
-    mvc 2 2-leto
     for part in *; do
         echo -- "$part"
         cd "$part"
         rm -f ./*.yaml
-        mvc 1 1-kolo
-        mvc 2 2-kolo
-        mvc 3 3-kolo
-        mvc outdoor objavne-kolo
         for round in *; do
             echo - "$round"
             cd "$round"
+            round_no="$round"
+            if [[ "$round" = objavne-kolo ]]; then
+                round_no=3;
+                if [[ "$year" = 2022_23 ]] && [[ "$part" = 2 ]]; then round_no=2; fi
+            fi
             rm -f ./*.yaml
             for prob in *; do
                 if [[ -f "$prob/meta.yaml" ]]; then
@@ -96,9 +95,17 @@ for year in *_*; do
                     echo "$prob": "$(head -n 1 "$prob"/solution.md)";
                 fi
             done
+            ln -s ../../../pdfs/"$year-$part-$round_no-p".pdf problems.pdf
+            ln -s ../../../pdfs/"$year-$part-$round_no-s".pdf solutions.pdf
             cd ..
         done
+        mvc 1 1-kolo
+        mvc 2 2-kolo
+        mvc 3 3-kolo
+        mvc outdoor objavne-kolo
         cd ..
     done
+    mvc 1 1-zima
+    mvc 2 2-leto
     cd ..
 done

@@ -1,0 +1,91 @@
+table_year;table_part;table_round;name;school_year;school;points_before;points;points_sum;points_after
+2022_23;2;2;Matúš Pokorný;1;GAMČA;48;6,6,6,6,6;30;78
+2022_23;2;2;Matej Bachniček;1;ŠpMNDaG;46;6,6,6,6,6;30;76
+2022_23;2;2;Lenka Juranová;2;gymkepler;46;6,6,2,6,6;26;72
+2022_23;2;2;Jakub Šošovička;4;SZScenada;46;6,6,0,0,6;18;64
+2022_23;2;2;Magdaléna Bečková;9;FMFI UK;44;6,0,6,6,0;18;62
+2022_23;2;2;Martin Štěpánek;4;GJH;46;6,0,0,0,0;6;52
+2022_23;2;2;Adam Daniel Donoval;9zš;ŠpMNDaG;36;6,6,0,2,0;14;50
+2022_23;2;2;Lukáš Gáborik;6;FMFI UK;48;0,0,0,0,0;0;48
+2022_23;2;2;Soňa Vasiľová;2;GPUK;40;4,2,0,0,0;6;46
+2022_23;2;2;Matej Zigo;4;ŠpMNDaG;26;6,6,2,4,0;18;44
+2022_23;2;2;Jozef Bachniček;3;ŠpMNDaG;30;6,6,0,0,0;12;42
+2022_23;2;2;Teo Višňovský;9zš;ŠpMNDaG;30;6,6,0,0,0;12;42
+2022_23;2;2;Patrícia Molčanová;9zš;ŠpMNDaG;28;6,6,0,0,2;14;42
+2022_23;2;2;Vincent Huňa;6zš;ŠpMNDaG;34;6,0,0,0,0;6;40
+2022_23;2;2;Julka Pleschová;8zš;GJH;32;6,0,0,0,0;6;38
+2022_23;2;2;Lucia Tóthová;8zš;GAMČA;32;6,0,0,0,0;6;38
+2022_23;2;2;Jana Oswaldová;8zš;GAMČA;32;6,0,0,0,0;6;38
+2022_23;2;2;Martina Gaňová;4;GBAS;26;6,0,0,0,6;12;38
+2022_23;2;2;Matúš Duchyňa;4;GAMČA;36;0,0,0,0,0;0;36
+2022_23;2;2;Martin Kollár;37;GAMČA;36;0,0,0,0,0;0;36
+2022_23;2;2;Simona Šimočková;3;GĽŠTN;36;0,0,0,0,0;0;36
+2022_23;2;2;Jakub Krivošík;2;GJH;28;6,0,2,0,0;8;36
+2022_23;2;2;Tereza Spustová;2;GPUK;32;0,0,0,0,0;0;32
+2022_23;2;2;Katarína Gersová;2;GJH;30;2,0,0,0,0;2;32
+2022_23;2;2;Tomáš Otrubčák;2;GĽŠTN;24;6,0,0,0,2;8;32
+2022_23;2;2;Veronika Plachá;3;GPriev;30;0,0,0,0,0;0;30
+2022_23;2;2;Jan Kouba;3;Iná škola;30;0,0,0,0,0;0;30
+2022_23;2;2;Rudolf Kusý;1;GAMČA;24;6,0,0,0,0;6;30
+2022_23;2;2;Erik Tóth;4;GJH;14;6,0,6,0,0;12;26
+2022_23;2;2;Daniel Jandora;12;Iná škola;24;0,0,0,0,0;0;24
+2022_23;2;2;Tomáš Zuzík;8zš;zsdubova;24;0,0,0,0,0;0;24
+2022_23;2;2;Marek Murin;11;FMFI UK;22;2,0,0,0,0;2;24
+2022_23;2;2;Martin Belluš;4;GAMČA;18;6,0,0,0,0;6;24
+2022_23;2;2;Sara Gašparová;4;GAMČA;18;6,0,0,0,0;6;24
+2022_23;2;2;Tereza Vargová;8zš;ŠpMNDaG;18;6,0,0,0,0;6;24
+2022_23;2;2;Natália Banasová;3;Leaf;12;6,0,6,0,0;12;24
+2022_23;2;2;Roman Žitňanský;3;ŠpMNDaG;14;6,0,0,0,0;6;20
+2022_23;2;2;Filip Jay Doba;4;ŠpMNDaG;18;0,0,0,0,0;0;18
+2022_23;2;2;Dominik Bezák;8zš;ŠpMNDaG;18;0,0,0,0,0;0;18
+2022_23;2;2;Matúš Jonaštík;3;GAMČA;18;0,0,0,0,0;0;18
+2022_23;2;2;Šimon Dafčík;1;GAMČA;18;0,0,0,0,0;0;18
+2022_23;2;2;Alex Luis Šutka;8zš;ŠpMNDaG;18;0,0,0,0,0;0;18
+2022_23;2;2;Zuzana Oravcová;8zš;ŠpMNDaG;18;0,0,0,0,0;0;18
+2022_23;2;2;Alexandra Klčová;1;GAMČA;18;0,0,0,0,0;0;18
+2022_23;2;2;Zuzana Hladká;4;ŠpMNDaG;12;6,0,0,0,0;6;18
+2022_23;2;2;Michaela Kontrišová;2;GJH;12;6,0,0,0,0;6;18
+2022_23;2;2;Matej Kucharčík;8zš;ŠpMNDaG;12;6,0,0,0,0;6;18
+2022_23;2;2;Martina Javorčeková;8zš;ŠpMNDaG;12;6,0,0,0,0;6;18
+2022_23;2;2;Stanislav Barčák;3;GVOZA;16;0,0,0,0,0;0;16
+2022_23;2;2;Lujza Lea Lavriková;2;GPH;16;0,0,0,0,0;0;16
+2022_23;2;2;Anna Podmanická;2;GVarZA;14;0,0,0,0,0;0;14
+2022_23;2;2;Samuel Bogner;2;GJH;14;0,0,0,0,0;0;14
+2022_23;2;2;Šimon Borovský;2;GAMČA;12;0,0,0,0,0;0;12
+2022_23;2;2;Alica Cimráková;2;GBAS;12;0,0,0,0,0;0;12
+2022_23;2;2;Ján Féder;23;Iná škola;12;0,0,0,0,0;0;12
+2022_23;2;2;Alžbeta Klimentová;3;GPošKE;12;0,0,0,0,0;0;12
+2022_23;2;2;Marek Majerik;3;GAMČA;12;0,0,0,0,0;0;12
+2022_23;2;2;Ondrej Králik;2;GALEJE;12;0,0,0,0,0;0;12
+2022_23;2;2;Peter Beňo;4;FMFI UK;12;0,0,0,0,0;0;12
+2022_23;2;2;Lucia Kleščová;2;GPošKE;12;0,0,0,0,0;0;12
+2022_23;2;2;Tomáš Kodaj;1;GAMČA;12;0,0,0,0,0;0;12
+2022_23;2;2;Sarah Klopstock;9zš;ŠpMNDaG;12;0,0,0,0,0;0;12
+2022_23;2;2;Filip Štefko;8zš;GPUK;12;0,0,0,0,0;0;12
+2022_23;2;2;Viktor Dankanin;1;GPH;12;0,0,0,0,0;0;12
+2022_23;2;2;Sofia Djurbová;2;GJH;6;6,0,0,0,0;6;12
+2022_23;2;2;Lukáš Koiš;2;GAMČA;0;6,0,0,6,0;12;12
+2022_23;2;2;Marek Hromada;9zš;ŠpMNDaG;2;4,5,0,0,0;9;11
+2022_23;2;2;Radoslav Čársky;3;GJH;4;6,0,0,0,0;6;10
+2022_23;2;2;Stanislav Bezák;4;ŠpMNDaG;0;6,0,2,2,0;10;10
+2022_23;2;2;Miriam Haverlíková;3;Iná škola;8;0,0,0,0,0;0;8
+2022_23;2;2;Zuzana Škerliková;2;GAMČA;8;0,0,0,0,0;0;8
+2022_23;2;2;Michaela Vdoviaková;4;GJH;8;0,0,0,0,0;0;8
+2022_23;2;2;Matej Repa;4;GAMČA;6;0,0,0,0,0;0;6
+2022_23;2;2;Anamária Šutková;3;ŠpMNDaG;6;0,0,0,0,0;0;6
+2022_23;2;2;Peter Kumančík;3;GAMČA;6;0,0,0,0,0;0;6
+2022_23;2;2;Jakub Homola;2;GAMČA;6;0,0,0,0,0;0;6
+2022_23;2;2;Lukas Lipka;8zš;ŠpMNDaG;6;0,0,0,0,0;0;6
+2022_23;2;2;Zuzana Trenčanská;1;GAMČA;6;0,0,0,0,0;0;6
+2022_23;2;2;Jakub Klabnik;8zš;ŠpMNDaG;6;0,0,0,0,0;0;6
+2022_23;2;2;Alfred Primus;8zš;ŠpMNDaG;6;0,0,0,0,0;0;6
+2022_23;2;2;Hana Kalabova;1;ŠpMNDaG;0;6,0,0,0,0;6;6
+2022_23;2;2;Matej Pučko;2;GĽŠTN;0;6,0,0,0,0;6;6
+2022_23;2;2;Eliška Macáková;3;SZScenada;2;0,0,0,0,0;0;2
+2022_23;2;2;Elyas Günther;64;GAMČA;0;0,2,0,0,0;2;2
+2022_23;2;2;Alex Luis Šutka;8zš;ŠpMNDaG;0;0,0,0,0,0;0;0
+2022_23;2;2;Vít Hanika;4;gymkepler;0;0,0,0,0,0;0;0
+2022_23;2;2;Nina Vážna;9zš;ŠpMNDaG;0;0,0,0,0,0;0;0
+2022_23;2;2;Miriam Barnaby;4;Iná škola;0;0,0,0,0,0;0;0
+2022_23;2;2;Adam Džavoronok;4;GPošKE;0;0,0,0,0,0;0;0
+2022_23;2;2;Michal Imrišek;2;GAMČA;0;0,0,0,0,0;0;0

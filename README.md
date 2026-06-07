@@ -40,8 +40,6 @@ Aktuálne súťaže, ktoré organizuje SuŠi, nájdete na [https://susi.sk](http
 - [Zimné Sústredenie, Február 2025, Píla](https://photos.app.goo.gl/nMzhHogdfBW16Fa48)
 - [Letné Sústredenie, TODO]()
 
-Tieto informácie boli platné pre súťaž v roku 24/25. Informácie o nových súťažiach pribudnú ešte v priebehu tohto roka.
-
 ## Pravidlá minulých ročníkov SuŠi
 
 TODO

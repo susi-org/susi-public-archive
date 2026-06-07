@@ -2,32 +2,41 @@
 
 set -ueo pipefail
 
+# If first arg contains "R", remove the source repos after copying.
+# If first arg contains "F", don't check for source repo updates.
+arg1=${1:-""}
+
 rm -rf 2020_21 2021_22 2022_23 2023_24 2024_25 || true
 
 if [[ ! -e 2020_21 ]]; then
     if [[ ! -e 01 ]]; then gh repo clone susi-org/01
-    else cd 01; git pull; cd ..; fi
+    elif [[ "$arg1" != *F* ]]; then cd 01; git pull; cd ..; fi
     cp -r 01 2020_21
+    if [[ "$arg1" = *R* ]]; then rm -rf 01; fi
 fi
 if [[ ! -e 2021_22 ]]; then
     if [[ ! -e 02 ]]; then gh repo clone susi-org/02
-    else cd 01; git pull; cd ..; fi
+    elif [[ "$arg1" != *F* ]]; then cd 01; git pull; cd ..; fi
     cp -r 02 2021_22
+    if [[ "$arg1" = *R* ]]; then rm -rf 02; fi
 fi
 if [[ ! -e 2022_23 ]]; then
     if [[ ! -e 03 ]]; then gh repo clone susi-org/03
-    else cd 01; git pull; cd ..; fi
+    elif [[ "$arg1" != *F* ]]; then cd 01; git pull; cd ..; fi
     cp -r 03 2022_23
+    if [[ "$arg1" = *R* ]]; then rm -rf 03; fi
 fi
 if [[ ! -e 2023_24 ]]; then
     if [[ ! -e 04 ]]; then gh repo clone susi-org/04
-    else cd 01; git pull; cd ..; fi
+    elif [[ "$arg1" != *F* ]]; then cd 01; git pull; cd ..; fi
     cp -r 04 2023_24
+    if [[ "$arg1" = *R* ]]; then rm -rf 04; fi
 fi
 if [[ ! -e 2024_25 ]]; then
     if [[ ! -e 05 ]]; then gh repo clone susi-org/05
-    else cd 01; git pull; cd ..; fi
+    elif [[ "$arg1" != *F* ]]; then cd 01; git pull; cd ..; fi
     cp -r 05 2024_25
+    if [[ "$arg1" = *R* ]]; then rm -rf 05; fi
 fi
 
 mvc() {

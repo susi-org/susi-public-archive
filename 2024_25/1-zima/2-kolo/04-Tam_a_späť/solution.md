@@ -1,4 +1,4 @@
-Autor: Roman
+Autori: Roman, Danko
 
 Na začiatku si v šifre môžeme všimnúť hneď dve veci:
 

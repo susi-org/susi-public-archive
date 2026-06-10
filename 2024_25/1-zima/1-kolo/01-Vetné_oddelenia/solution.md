@@ -1,4 +1,4 @@
-Autor: Mišo M.
+Autori: Mišo M., Roman
 
 V šifre sa nachádza 8 zvláštnych slovných spojení.
 Na prvý pohľad sa z nich nedá nič vyčítať, takže pravdepodobne ich budeme chcieť nejak upraviť predtým, ako sa z nich niečo dozvieme.

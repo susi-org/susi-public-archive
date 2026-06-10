@@ -1,4 +1,4 @@
-Autor:
+Autor: ???
 
 V texte sa často vyskytujú uprostred slov alebo na hraniciach medzi slovami
 reťazce `pro`, `meta`, `ana` a `telo`, čo sú začiatky názvov

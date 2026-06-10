@@ -1,4 +1,4 @@
-Autor: Janči
+Autori: Janči, Roman, Viktor
 
 V šifre vidíme dva reťazce textu zmotané do zvláštneho tvaru.
 

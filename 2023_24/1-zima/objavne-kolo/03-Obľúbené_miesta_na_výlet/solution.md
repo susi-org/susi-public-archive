@@ -1,4 +1,4 @@
-Autor: Mišo S.
+Autori: Michal S., Janči
 
 
 Jednotlivé repliky asociujú názvy turistických rázcestníkov na Slovensku.

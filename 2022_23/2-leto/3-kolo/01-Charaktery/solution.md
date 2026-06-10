@@ -1,4 +1,4 @@
-Autor: Viki
+Autori: Viki, Oliver, Janči
 
 Na fotke vidíme vedúcich v divných polohách.
 Čo to? Prižmúrime a uvidíme to -- veď tí žltí vyzerajú ako M a tí oranžoví ako H!

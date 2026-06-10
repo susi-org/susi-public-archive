@@ -1,4 +1,4 @@
-Autor: Mišo M.
+Autori: Mišo M., Oliver
 
 Prvé, čo si všimneme v zadaní šifry, je nesúľad medzi začiatkami a koncami jednotlivých prísloví a porekadiel. Chceme teda prísť na to, ako majú znieť správne. Dostaneme príslovia:
 

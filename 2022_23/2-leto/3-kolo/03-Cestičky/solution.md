@@ -1,4 +1,4 @@
-Autor: Viktor
+Autori: Viktor, Oliver
 
 Skúsme obrázky pod mriežkou brať ako zadanie.
 Teda každá dvojica $A \rightarrow B$ sa nám snaží povedať,

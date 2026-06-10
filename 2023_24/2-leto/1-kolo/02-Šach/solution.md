@@ -1,4 +1,4 @@
-Autori: Mišo M., Janči
+Autori: Janči, Mišo M.
 
 V šifre máme osem šachovníc,
 na každej je iné roloženie figúrok.

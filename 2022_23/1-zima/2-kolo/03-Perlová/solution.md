@@ -1,4 +1,4 @@
-Autor: Havoš
+Autori: Havoš, Marek S., Skaloš
 
 Prvá vec, ktorú v šifre vidíme, je mriežka, perly, a text.
 Keď text prečítame po riadkoch, a vynecháme políčka _štart_ a _cieľ_,

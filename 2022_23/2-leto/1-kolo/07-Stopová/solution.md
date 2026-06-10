@@ -1,4 +1,4 @@
-Autor: Michal S.
+Autori: Michal S., Danko
 
 Šifra pozostáva z mnohých riadkov. V každom okrem posledného sú tri obrázky. V poslednom riadku ich je päť.
 

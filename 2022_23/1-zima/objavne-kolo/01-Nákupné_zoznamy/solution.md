@@ -1,4 +1,4 @@
-Autor:
+Autor: ???
 
 Každý si do nákupného zoznamu napísal suroviny na nejaký pokrm.
 Suroviny sú zoradené abecedne, a vždy jedna z nich očividne nepatrí medzi ostatné.

@@ -1,4 +1,4 @@
-Autor: Viktor
+Autori: Viktor, Havoš, Janči
 
 Šifra na prvý pohľad vyzerá veľmi jednoducho.
 Máme tajničku,

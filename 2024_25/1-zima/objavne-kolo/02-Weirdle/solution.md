@@ -1,4 +1,4 @@
-Autor: Janči
+Autori: Janči, Mišo M.
 
 Šifra ponúka rozhranie, do ktorého vieme vpísať päťpísmenkové slovo.
 To sa pridá nakoniec zoznamu už vložených slov,

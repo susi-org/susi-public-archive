@@ -1,4 +1,4 @@
-Autor:
+Autori: Michal S., Dušan
 
 Celý veľký obrázok je osovo symetrický a niektoré objekty sú označené písmenami.
 

@@ -1,4 +1,4 @@
-Autor: Danko
+Autori: Danko, Skaloš, Mišo M.
 
 Najprv urobme nejaké pozorovania.
 Máme 4 rovnaké pyramídy, zaujímavo rozmiestnené.

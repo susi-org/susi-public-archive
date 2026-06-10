@@ -1,4 +1,4 @@
-Autor:
+Autor: ???
 
 Začnime od samotného názvu -- Translačná. Ten poukazuje na transláciu,
 čo je nejaký spôsob dekódovania aminokyselín z informácie z RNA.

@@ -1,4 +1,4 @@
-Autor: Janči
+Autori: Janči, Danko
 
 V zadaní vidíme množstvo farebných tehál
 s rôznymi kladnými a zápornými číslami.

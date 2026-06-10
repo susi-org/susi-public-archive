@@ -1,4 +1,4 @@
-Autor: Janči
+Autori: Janči, Viktor
 
 V šifre vidíme 5 obrázkov, ku každému patrí číslo v krúžku.
 Čísla sa opakujú.

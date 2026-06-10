@@ -1,4 +1,4 @@
-Autor: Jožo B.
+Autori: Jožo B., Mišo M.
 
 V šifre vidíme chemické prvky (ktoré sa opakujú) a vzdialenosti v kilometroch za ich reťazcom.
 

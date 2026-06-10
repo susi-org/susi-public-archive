@@ -1,4 +1,4 @@
-Autor: MisQo a Stanko
+Autori: Stanko, MisQo
 
 ### Analýza tabuľky
 

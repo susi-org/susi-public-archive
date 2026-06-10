@@ -1,4 +1,4 @@
-Autor:
+Autor: Michal S.
 
 Text sa svojou štruktúrou aj obsahom podobá na text prvého odseku pravidiel Suši (viď Pravidlá v menu).
 Má rovnaký počet viet, vety majú rovnakú dĺžku.

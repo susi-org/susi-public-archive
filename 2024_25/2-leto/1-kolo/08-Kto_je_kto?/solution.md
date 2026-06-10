@@ -1,4 +1,4 @@
-Autor: Michal S.
+Autori: Michal S., Mišo M.
 
 Máme dve sady viet, prvá sada sú výpovede ľudí, druhá sú iba vety/odseky. V oboch sadách je rovnaký počet odsekov, takže dáva zmysel ich popárovať.
 

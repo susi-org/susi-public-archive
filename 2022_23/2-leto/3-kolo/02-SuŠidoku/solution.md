@@ -1,4 +1,4 @@
-Autor: Timka
+Autori: Timka, Danko, Pajty
 
 Vidíme, že šifru tvorí sudoku, kde sú niektoré políčka zafarbené na červeno.
 Skúsime teda najskôr vyriešiť toto sudoku.

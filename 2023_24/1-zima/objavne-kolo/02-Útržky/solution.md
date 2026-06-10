@@ -1,4 +1,4 @@
-Autor: Štepi
+Autori: Janči, Michal S., Štepi
 
 V šifre máme dvadsaťpäť útržkov, po päť z každej z piatich farieb.
 Niektoré majú na sebe čísla, pričom jeden útržok môže mať čísel aj viac,

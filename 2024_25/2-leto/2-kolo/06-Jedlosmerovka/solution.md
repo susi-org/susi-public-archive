@@ -1,4 +1,4 @@
-Autor: Danko
+Autori: Danko, Roman
 
 Základom šifry je tabuľka s obrázkami jedla.
 Keď vidíme múku, ryžu, kečup a podobne, vyzerá, že sú to skôr ingrediencie.

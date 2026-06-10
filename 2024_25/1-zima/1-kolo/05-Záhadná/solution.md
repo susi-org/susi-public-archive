@@ -1,4 +1,4 @@
-Autor: Janči
+Autori: Janči, Timka
 
 V zadaní vidíme báseň s desiatimi riadkami,
 ktoré sa po dvojiciach rýmujú.

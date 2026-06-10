@@ -1,4 +1,4 @@
-Autor:
+Autor: ???
 
 Je vcelku zjavné, že šifra, aj v kontexte genetiky, predstavuje rodostrom.
 U všetkých, ktorí nemajú rodičov máme nejakú informáciu v podobe dvoch písmen,

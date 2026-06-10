@@ -1,4 +1,4 @@
-Autor:
+Autor: Danko
 
 Začnime pozorovaním šifry. V dvoch stĺpcoch máme umiestnené nejaké kúsky slov. Tie majú $1$, $2$, alebo $3$ písmenká. Každý kúsok je červený, zelený alebo modrý. Napísané sú troma rôznymi fontami a navyše sú *šikmé*, **hrubé** alebo podčiarknuté. Máme teda štyri vlastnosti, ktoré môžu nadobúdať tri rôzne hodnoty. Tiež si môžeme všimnúť, že začiatok textu nám hovorí "zisti ake su toto karty". Čo za karty teda hľadáme?
 

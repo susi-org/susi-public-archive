@@ -1,4 +1,4 @@
-Autor: Janči
+Autori: Janči, Danko
 
 Pri pohľade na šifru nám do očí udrú jej rozmanité farby,
 ale zároveň veľmi stereotypné tvary -- šesťuholníky tvoriace

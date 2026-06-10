@@ -1,4 +1,4 @@
-Autor: Maťka
+Autori: Maťka, Matea, Štepi
 
 V šifre vidíme slovník s pojmami v angličtine a ich prekladmi do slovenčiny. Vidíme, že heslo vieme získať z chýbajúcich anglických výrazov.
 

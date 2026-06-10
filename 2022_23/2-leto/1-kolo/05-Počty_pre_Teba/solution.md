@@ -1,4 +1,4 @@
-Autor: Janči
+Autori: Janči, Pajty
 
 Šifra obsahuje na každom riadku čísla, medzi ktorými sú výrazné medzery,
 a potom znamienko rovná sa a nejaký výsledok.

@@ -1,4 +1,4 @@
-Autor: Ivona
+Autori: Ivona, Kika
 
 Na obrázku vidíme príspevok na Instagrame s piatimi #, čiže mriežkami alebo po anglicky hashtagmi.
 Na Instagrame je bežné, že pod príspevkami sú hashtagy,

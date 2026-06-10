@@ -1,4 +1,4 @@
-Autor: Janči
+Autori: Janči, Viktor
 
 Šifra sa tvári ako bludisko, tak si ho skúsme ako prvé vyriešiť.
 Dostaneme jednu správnu cestu a šesť nerozvetvených slepých uličiek.

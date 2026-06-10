@@ -1,4 +1,4 @@
-Autor: MisQoF
+Autori: MisQo, Danko, Janči
 
 Už na začiatku riešenia je možné si všimnúť viacero zaujímavých faktov o názvoch druhov.
 V šifre ich máme 26, každý sa začína na iné písmeno, a môže sa javiť, že slová znejú akosi zvláštne.

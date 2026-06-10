@@ -1,4 +1,4 @@
-Autor: Michal S.
+Autori: Michal S., Miloš
 
 Prvý krok pri šifrách skladajúcich sa z obrázkov býva obvykle skúsiť si obrázky pomenovať.
 Keď tak spravíme, zistíme, že prvý obrázok z každej dvojice obrázkov vedľa seba

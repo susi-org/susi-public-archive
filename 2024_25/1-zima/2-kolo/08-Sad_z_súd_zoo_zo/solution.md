@@ -1,4 +1,4 @@
-Autor: Danko
+Autori: Danko, MisQo
 
 Slová, ktoré máme v šifre, sa často opakujú a sú si celkom podobné.
 Poďme teda spraviť nejaké pozorovania a šifra sa možno potom vyrieši aj sama:

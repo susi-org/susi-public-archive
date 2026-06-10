@@ -1,4 +1,4 @@
-Autor:
+Autor: Michal S.
 
 Keď prečítame tie správne slová, potvrdí nám to, ktoré slová sme mali čítať a čo so šifrou robiť.
 

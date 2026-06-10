@@ -1,4 +1,4 @@
-Autor:
+Autor: Viktor
 
 Zadaním šifry je množstvo farebných štvorčekov.
 Každý má na sebe číslo,

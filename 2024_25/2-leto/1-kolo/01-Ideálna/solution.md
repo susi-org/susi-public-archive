@@ -1,4 +1,4 @@
-Autor: Roman
+Autori: Roman, Oliver
 
 Keď sa na šifru pozrieme na začiatku, všimneme si 11 riadkov slov, pričom v každom riadku nájdeme 3 až 6 slov zoradených (takmer ideálne) abecedne.
 Slová v riadkoch sú na prvý pohľad veľmi podobné, často totiž končia úplne rovnako.

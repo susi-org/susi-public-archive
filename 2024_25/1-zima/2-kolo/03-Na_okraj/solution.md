@@ -1,4 +1,4 @@
-Autor: Janči
+Autori: Janči, Oliver, Danko
 
 V šifre vidíme zhluky dvojíc písmen,
 ktoré sa opakujú.

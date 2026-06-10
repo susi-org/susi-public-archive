@@ -1,4 +1,4 @@
-Autor: Mišo M.
+Autori: Mišo M., Havoš
 
 Najlepším priateľom šifrovača sú počty. Keď nevieme, čo so šifrou, môže pomôcť spočítať si jednotlivé objekty.
 V tomto prípade máme veľký trojuholník zložený z $26^2$ malých trojuholníčkov, konkrétne $26$ modrých a $26 \cdot 25$ bielych.

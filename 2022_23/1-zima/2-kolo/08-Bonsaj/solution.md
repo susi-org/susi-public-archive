@@ -1,4 +1,4 @@
-Autor: Miško S.
+Autori: Michal S., Danko, Kika
 
 Šifra sa skladá z malých obrázkov, čiernych krúžkov a čiernych a červených čísel rozmiestnených rôzne v rovine.
 Asi najviac informácií pre nás na začiatok nesú obrázky, začneme teda nimi.

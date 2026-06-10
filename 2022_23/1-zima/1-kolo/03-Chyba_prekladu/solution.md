@@ -1,4 +1,4 @@
-Autor: Mišo M.
+Autori: Mišo M., Kika
 
 V zadaní šifry sú nejaké zvláštne znejúce vety,
 v ktorých sú vyznačené nejaké slová a písmená.

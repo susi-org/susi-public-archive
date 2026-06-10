@@ -1,4 +1,4 @@
-Autor:
+Autor: Mišo M.
 
 Pozorovaním zadania šifry zistíme, že vyzerá ako hracia plocha hry *Pasians*,
 tiež známej pod anglickým označením *Solitaire*.

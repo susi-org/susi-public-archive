@@ -1,4 +1,4 @@
-Autor: Marianka
+Autori: Marianka, Danko
 
 Prvá časť šifry, ktorú si môžeme všimnúť, je,
 že nám písmená medzi šípkami hovoria "doplň chýbajúce písmenká".

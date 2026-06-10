@@ -1,4 +1,4 @@
-Autor: Pajty
+Autori: Pajty, Oliver
 
 Keď sa pozrieme na stickmanov, môžeme si všimnúť,
 že prvým piatim chýbajú ruky. Skúsime sa preto pozrieť na končatiny,

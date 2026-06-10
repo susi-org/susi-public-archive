@@ -1,4 +1,4 @@
-Autor: Skaloš
+Autori: Skaloš, Danko
 
 Keď sa pozrieme na riadky a názov šifry (Nápovedy), môžeme sa dovtípiť,
 že každý riadok odkazuje na jedno slovo. Síce nápovedy sú svojim spôsobom nejednoznačné,

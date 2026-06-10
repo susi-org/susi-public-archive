@@ -1,4 +1,4 @@
-Autor: Janči
+Autori: Janči, Oliver
 
 Pri prvom pohľade na šifru si môžeme všimnúť, že obrázky nie sú príliš konkrétne.
 Pravdepodobne teda pôjde o nejaké asociácie, nie gúglenie.

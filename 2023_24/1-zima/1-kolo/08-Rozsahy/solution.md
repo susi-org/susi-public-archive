@@ -1,4 +1,4 @@
-Autor: Danko
+Autori: Danko, Janči
 
 Šifra obsahuje veľa "rozsahov", v ktorých určite bude nejaká previdelnosť.
 Skúsme si teda zhrnúť, čo vidíme.

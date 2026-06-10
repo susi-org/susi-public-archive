@@ -1,4 +1,4 @@
-Autor:
+Autor: ???
 
 Zadanie šifry obsahuje jedálny lístok
 pozostávajúci z najrôznejších jedál.

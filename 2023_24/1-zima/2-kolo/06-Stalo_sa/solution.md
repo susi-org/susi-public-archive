@@ -1,4 +1,4 @@
-Autor: Havoš
+Autori: Havoš, Danko
 
 V zadaní vidíme nekompletné názvy historických udalostí spolu s miestom, kde zvyšok názvu môžeme doplniť.
 Niektoré názvy sú však nejednoznačné -- čo napríklad je "deň \_\_\_\_\_\_\_"?

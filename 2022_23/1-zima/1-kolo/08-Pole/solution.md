@@ -1,4 +1,4 @@
-Autor: Viktor
+Autori: Viktor, Danko
 
 Prvé, čo si môžeme všimnúť, je, že šifra je písaná tzv. monospace písmom.
 To je písmo, ktoré vyzerá `asi takto`, a má takú peknú vlastnosť, že každý znak v ňom má presne rovnakú šírku.

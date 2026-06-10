@@ -1,4 +1,4 @@
-Autor: Mišo M.
+Autori: Mišo M., Danko
 
 Začnime tým, že si pomenujeme obrázky.
 V prvom riadku máme vlajku Číny, v druhom sa na nás z okien pozerajú deti, v poslednom je raja.

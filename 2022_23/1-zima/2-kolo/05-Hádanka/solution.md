@@ -1,4 +1,4 @@
-Autor: Viktor
+Autori: Viktor, Danko
 
 Zadanie šifry pozostáva z piatich odrážok.
 Všetky až na prvú obsahujú nejakú nápovedu.

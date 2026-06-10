@@ -1,4 +1,4 @@
-Autor: Danko
+Autori: Danko, Pajty, Janči
 
 Prvá časť šifry obsahuje riadky, ktoré sa "snažia" byť vetami, no moc im to nejde.
 Vyzerá, že sa snažia pomenovať nejaké slovo, no je to trochu popletené.

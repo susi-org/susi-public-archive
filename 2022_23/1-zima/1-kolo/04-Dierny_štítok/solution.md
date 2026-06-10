@@ -1,4 +1,4 @@
-Autor: Kika
+Autori: Kika, Pajty
 
 Zadanie šifry tvorí maľovaná krížovka a nejaké čísla napravo od nej.
 Skúsme najprv vyriešiť maľovanú krížovku a potom vymyslíme, čo s číslami napravo.

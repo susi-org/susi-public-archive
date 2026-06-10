@@ -1,4 +1,4 @@
-Autor: Danko
+Autori: Danko, Mišo M.
 
 Rýchla analýza zadania odhalí, že ho tvorí $9$ viet, každá v jednom riadku a s deviatimi slovami, z nich jedno je krstné meno.
 V texte sa tiež nachádza zopár podozrivých slov, či slovných spojení,

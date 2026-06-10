@@ -1,4 +1,4 @@
-Autor: Michal S.
+Autori: Michal S., Roman
 
 Ako prvé si môžeme všimnúť, že obrázky v hornej časti šifry
 asociujú Slovensko, Česko a Nemecko.

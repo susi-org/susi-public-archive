@@ -1,4 +1,4 @@
-Autor: Danko
+Autori: Danko, Michal S.
 
 V zdanlivo náhodnom zhluku písmen sa predsa len objavujú zmysluplné vzory.
 Rozloženie medzier a riadkov by mohlo sedieť so slovami vo vetách, teda chceme len písmenká nejak pozamieňať, aby sme čítali zmysluplný text.

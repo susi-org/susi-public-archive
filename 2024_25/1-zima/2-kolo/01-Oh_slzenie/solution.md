@@ -1,4 +1,4 @@
-Autor: Mišo M.
+Autori: Mišo M., Roman
 
 Začnime tým, že sa pozrieme na to, čo by mohlo byť na šifre zaujímavé.
 Máme desať riadkov obsahujúcich nejaké slovo, či slovné spojenie.

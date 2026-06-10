@@ -1,4 +1,4 @@
-Autor: Oliver
+Autori: Oliver, Janči, Kika
 
 Môžeme si všimnúť, že v každej vete je jedno slovo,
 ktoré významovo to danej vety nie úplne sedí.

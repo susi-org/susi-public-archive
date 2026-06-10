@@ -1,4 +1,4 @@
-Autor: Michal S.
+Autori: Michal S., Pajty
 
 Začneme tým, že skúsime nájsť v mriežke nejaké zmysluplné slová alebo časti textu.
 Môžeme si všimnúť, že celá ľavá horná štvrtina (8 riadkov krát 8 stĺpcov) nám dáva text:

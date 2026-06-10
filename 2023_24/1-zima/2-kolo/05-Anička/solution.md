@@ -1,4 +1,4 @@
-Autor: Danko
+Autori: Danko, Havoš, Štepi
 
 V tejto šifre podobajúcej sa na výrokový hlavolam by sme asi chceli zistiť mená ľudí v rade podľa toho, čo hovoria.
 Počet písmen bude určený podtrhovníkmi a potom by sme už len vybrali písmená do hesla.

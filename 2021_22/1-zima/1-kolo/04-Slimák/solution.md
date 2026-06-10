@@ -1,4 +1,4 @@
-Autor: Michal M.
+Autor: Mišo M.
 
 Čo má slimák také, čo by sa dalo využiť v šifre? Zvlášť takej s hromadou písmeniek?
 

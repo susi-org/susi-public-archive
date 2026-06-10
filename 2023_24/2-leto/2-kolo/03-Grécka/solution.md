@@ -1,4 +1,4 @@
-Autori: Michal S., Janči, Mišo M.
+Autori: Janči, Mišo M., Michal S.
 
 V šifre vidíme desať obrázkov a pod nimi desať gréckych písmen.
 Typickým postupom pri šifrách s obrázkami je skúsiť

@@ -1,4 +1,4 @@
-Autor: Janči
+Autori: Janči, Danko, Roman
 
 V šifre vidíme množstvo farebných šípok spájajúcich slová a otázniky.
 Zrejme teda namiesto každého otáznika treba tiež doplniť slovo.

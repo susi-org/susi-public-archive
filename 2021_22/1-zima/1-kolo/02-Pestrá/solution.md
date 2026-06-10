@@ -1,4 +1,4 @@
-Autor: Ivona
+Autori: MisQo, Ivona, Lenka
 
 Na túto šifru musíme použiť [šifrovaciu pomôcku](https://chlyftym.cz/pomucky/)^[<https://chlyftym.cz/pomucky/>].
 Ako vidíme, šifra sa skladá z [vlajok námornej abecedy](https://sk.wikipedia.org/wiki/Medzinárodná_námorná_vlajková_abeceda)^[<https://sk.wikipedia.org/wiki/Medzinárodná_námorná_vlajková_abeceda>].

@@ -1,4 +1,4 @@
-Autor: Mišo M.
+Autori: Mišo M., Michal S.
 
 Začnime tým, že namiesto otázničkov okolo samotného smerovníka doplníme svetové strany.
 V smere hodinových ručičiek máme S (sever), V (východ), J (juh), Z (západ).

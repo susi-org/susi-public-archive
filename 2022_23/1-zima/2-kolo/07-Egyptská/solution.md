@@ -1,4 +1,4 @@
-Autor: Viktor
+Autori: Viktor, Viki
 
 Jednotlivé papieriky majú rastúce veľkosti.
 Hľadiac na tému šifry z nich vieme postaviť celkom peknú pyramídu.

@@ -1,4 +1,4 @@
-Autor: Janči
+Autori: Janči, Michal S.
 
 Na obrázku vidíme logboj -- logickú úlohu, ktorá obsahuje čísla, bledé a tmavé políčka, písmená abecedy a farebné šípky.
 

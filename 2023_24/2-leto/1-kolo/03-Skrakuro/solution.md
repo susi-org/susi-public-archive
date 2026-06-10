@@ -1,4 +1,4 @@
-Autori: Havoš, Janči
+Autori: Janči, Havoš
 
 ![](skrakuro.svg){style="width:67mm}
 

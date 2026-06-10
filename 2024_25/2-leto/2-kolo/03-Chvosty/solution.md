@@ -1,4 +1,4 @@
-Autor: Janči
+Autori: Janči, Danko
 
 V šifre vidíme desať slov, ktoré nie sú veľmi zmysluplné,
 ale vyzerá to, že sa skladajú z častí rozumných slov.

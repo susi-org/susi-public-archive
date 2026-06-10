@@ -1,4 +1,4 @@
-Autor: Oliver
+Autori: Oliver, Peťo, Michal S.
 
 Môžeme si všimnúť, že zadanie má formu tabuľky. V ľavom stĺpci je v každom riadku nejaká veta.
 Asi by sme chceli z každého riadku dostať nejaké slovo. V pravom stĺpci sú nejaké zlomky,

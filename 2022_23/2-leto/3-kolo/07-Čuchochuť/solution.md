@@ -1,3 +1,3 @@
-Autor: Danko
+Autori: Danko, Mišo M.
 
 

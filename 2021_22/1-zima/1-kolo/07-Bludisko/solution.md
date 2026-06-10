@@ -1,4 +1,4 @@
-Autor: Danko
+Autori: Danko, Adrianka
 
 V šifre vidíme tabuľku s písmenami a stenami a ešte zopár čísel navyše.
 Zo začiatku nie je vôbec jasné, čo by sa s číslami dalo robiť,

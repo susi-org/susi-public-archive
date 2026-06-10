@@ -1,4 +1,4 @@
-Autor: Miloš
+Autori: Miloš, Danko
 
 Na začiatok veľmi divne vyzerajúce zadanie vieme dať do lepšieho tvaru využitím informácie,
 že ho máme rozdelené na dve časti -- zvislú a vodorovnú.

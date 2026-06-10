@@ -1,4 +1,4 @@
-Autor: Danko
+Autori: Danko, Mišo M.
 
 Začnime krátkym popisom šifry, potom sa vrhneme do hlbšej analýzy.
 V šifre sa nachádza niekoľko nápisov "čo majú spoločné" a pod každým sú 3 riadky slov.

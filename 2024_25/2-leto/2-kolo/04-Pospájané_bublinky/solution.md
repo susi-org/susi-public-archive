@@ -1,4 +1,4 @@
-Autor: Michal S.
+Autori: Michal S., Oliver
 
 Máme k dispozícii niekoľko nápovedí -- ku každej vieme priradiť slovo, ktoré má počet písmen uvedený v zátvorke.
 Postupne sú to:

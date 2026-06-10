@@ -1,4 +1,4 @@
-Autor:
+Autor: Michal S.
 
 Pri pozornejšom pohľade zistíme, že obrázok v skutočnosti nie je jednofarebný.
 Farbou sa podobá na farbu webovej stránky Suši.

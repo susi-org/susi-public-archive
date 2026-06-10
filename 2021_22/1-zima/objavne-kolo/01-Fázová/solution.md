@@ -1,4 +1,4 @@
-Autor:
+Autor: ???
 
 Obrázky v šifre znázorňujú rôzne fázy bunkového delenia -- mitózy:
 

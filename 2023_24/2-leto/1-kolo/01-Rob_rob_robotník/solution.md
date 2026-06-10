@@ -1,4 +1,4 @@
-Autori: Peťo, Janči, Oliver
+Autori: Janči, Oliver, Peťo
 
 V šifre sa nachádza 10 odrážok,
 každá obsahuje jednu vetu

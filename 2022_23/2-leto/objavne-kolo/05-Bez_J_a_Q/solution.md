@@ -1,4 +1,4 @@
-Autor:
+Autor: Danko
 
 Tak ako to býva vo väčšine obrázkových šifier, základom je si obrázky pomenovať.
 Niektoré sú jednoznačnejšie ako iné, oplatiť sa môže zamerať sa na nejaké špecifickejšie obrázky s väčším množstvom informácie,

@@ -1,4 +1,4 @@
-Autor: Oliver
+Autori: Oliver, Marek S.
 
 Vidíme 9 obrázkov. Najskôr si ich skúsme pomenovať:
 

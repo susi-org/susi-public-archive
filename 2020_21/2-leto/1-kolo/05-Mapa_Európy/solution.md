@@ -1,4 +1,4 @@
-Autor: Duško
+Autor: Dušan
 
 Prvá vec, ktorá nám musí udrieť do očí je, že každá krajina je vyfarbená niekoľkými farbami dúhy. Farby sú v krajinách vždy zoradené od červenej
 po fialovú, pričom sú vykresľované v smere hodinových ručičiek od 12. hodiny. Okrem toho si môžeme všimnúť, že v rámci krajiny, farby nemusia byť

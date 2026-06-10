@@ -1,4 +1,4 @@
-Autor:
+Autor: ???
 
 Keď sa pozrieme na začiatočné písmená slovných spojení,
 môžeme si všimnúť, že sa tam vyskytujú iba `a`, `b` a `o`.

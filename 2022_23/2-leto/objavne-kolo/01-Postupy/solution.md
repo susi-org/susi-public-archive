@@ -1,4 +1,4 @@
-Autor:
+Autor: Viktor
 
 V zadaní šifry vidíme rôzne diagramy.
 Každý z nich pozostáva z mnohých okienok,

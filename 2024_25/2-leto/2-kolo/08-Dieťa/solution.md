@@ -1,4 +1,4 @@
-Autor: Matea
+Autori: Matea, Oliver, Janči
 
 Šifra pozostáva z dvoch častí, zo šesťuholníkov s obrázkami a šípkami a z hlavy dieťaťa, ktoré nám niečo hovorí.
 Každý obrázok obsahuje iba jednu, celkom jednoznačne pomenovateľnú vec.

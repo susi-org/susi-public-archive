@@ -1,4 +1,4 @@
-Autor: Viktor
+Autori: Viktor, Pajty
 
 Pozrieme sa poriadne na glyfy, z ktorých sa správa skladá.
 Môžeme si všimnúť, že sa opakuje osem rôznych glyfov.

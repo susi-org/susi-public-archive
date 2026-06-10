@@ -1,4 +1,4 @@
-Autor:
+Autor: Michal S.
 
 V každom odseku sa spomína nejaký produkt a názov niektorej jeho značky preložený do slovenčiny.
 Okrem toho sú tam vždy dve čísla, typicky v tvare X z Y. Všetky značky pomenujeme vždy

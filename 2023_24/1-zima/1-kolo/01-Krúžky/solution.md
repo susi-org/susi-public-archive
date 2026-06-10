@@ -1,4 +1,4 @@
-Autor: Michal S.
+Autori: Michal S., Danko
 
 Každý krúžok v šifre pozostáva z dvoch slovných spojení (vonkajšieho a vnútorného).
 Každé toto slovné spojenie popisuje alebo asociuje jedno slovo.

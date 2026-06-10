@@ -1,4 +1,4 @@
-Autor: Miloš
+Autori: Miloš, Viki
 
 Pri pozorovaní šifry si všmineme okrem iného aj to, že sa v šifre nachádza päť rôznych ingrediencií.
 Pizzu máme rozdelenú na osem kúskov, takže možno by sme chceli získať 5 alebo 8 písmen do hesla,

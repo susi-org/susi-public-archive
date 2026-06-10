@@ -1,4 +1,4 @@
-Autor: Janči
+Autori: Janči, Štepi
 
 Šifra pozostáva z dvoch častí -- obrázku a tajničky.
 V tajničke je deväť riadkov a obrázok sa skladá z deviatich

@@ -1,4 +1,4 @@
-Autor: Danko
+Autori: Danko, Janči
 
 Šifra samotná sa síce nazýva Vzorák,
 ale heslo v nej napísané nie je.

@@ -1,4 +1,4 @@
-Autor: Viki
+Autori: Viki, MisQo
 
 
 Obrázky pomenujeme postupne:

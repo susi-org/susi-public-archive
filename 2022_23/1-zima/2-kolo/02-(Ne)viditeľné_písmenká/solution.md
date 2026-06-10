@@ -1,4 +1,4 @@
-Autor: Viki
+Autori: Viki, Kika
 
 "No a ako to mám prečítať, nie to ešte vyriešiť, keď to nevidím?"
 Keby si toto povedali nevidiaci zakaždým, keď majú niečo prečítať, nikam by sa nedostali.

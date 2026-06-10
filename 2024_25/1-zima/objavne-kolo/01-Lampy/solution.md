@@ -1,4 +1,4 @@
-Autor: Danko
+Autori: Danko, Skaloš
 
 Pozeráme sa na mriežku so žiarovkami, ktorá vyzerá ako hlavolam lampy (light-up).
 Štandardne však musíme lampy nakresliť my, a to tak, aby každé políčko bolo osvetlené

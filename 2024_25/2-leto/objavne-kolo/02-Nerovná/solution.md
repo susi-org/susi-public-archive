@@ -1,4 +1,4 @@
-Autor: Viktor
+Autori: Viktor, Danko
 
 Hneď po otvorení šifry nás uvíta zdanlivo prázdne zadanie a text šikmým písmom:
 _Túto šifru odporúčame riešiť, radšej ako na stránke, v PDF._

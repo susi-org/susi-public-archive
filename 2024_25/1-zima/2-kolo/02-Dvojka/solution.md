@@ -1,4 +1,4 @@
-Autor: Janči
+Autori: Janči, Mišo M.
 
 V zadaní vidíme dve devätice obrázkov.
 V strede sa nachádza schéma, ktorá nám vraví

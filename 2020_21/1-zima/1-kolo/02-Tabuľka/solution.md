@@ -1,4 +1,4 @@
-Autor: Michal S.
+Autori: Michal S., Bubu
 
 Každý stĺpec aj riadok tabuľky je označený jedným obrázkom.
 Keď obrázky pomenujeme, zistíme, že názvy obrázkov v riadkoch

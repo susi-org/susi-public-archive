@@ -1,4 +1,4 @@
-Autor:
+Autor: ???
 
 Mám to na jazyku… pri tejto šifre sa opakujú rôzne ingrediencie.
 V každej vete si objednávame nejaký drink, ktorý nám bude namiešaný do pohárika.

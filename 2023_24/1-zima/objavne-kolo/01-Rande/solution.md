@@ -1,4 +1,4 @@
-Autor: Štepi
+Autori: Štepi, Janči
 
 V šifre vidíme mapu, ktorá vyzerá ako mapa nejakej dediny, ale celkom očividne to nie je skutočná dedina.
 Nejaké jej časti sú označené pinmi[^1] s písmenkami.

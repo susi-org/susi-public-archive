@@ -1,4 +1,4 @@
-Autor: Mišo M.
+Autori: Mišo M., Danko
 
 V zadaní šifry je text rozdelený do troch odrážok.
 Každá odrážka je navyše rozdelená do viet, pričom všetky sú zakončené otáznikom.

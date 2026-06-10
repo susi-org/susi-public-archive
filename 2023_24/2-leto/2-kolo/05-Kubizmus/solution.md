@@ -1,4 +1,4 @@
-Autori: Štepi, Danko, Mišo M.
+Autori: Danko, Mišo M., Štepi
 
 Po poriadnom preskúmaní spleti, ktorá sa nachádza v hornej časti šifry, spočítame "riadky" a ich okienka,
 a zistíme, že sa tam naozaj nachádzajú všetky od 1 po 11, a poznáme aj ich dĺžky.

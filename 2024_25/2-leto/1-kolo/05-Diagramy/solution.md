@@ -1,4 +1,4 @@
-Autor: Mišo M.
+Autori: Mišo M., Maťka
 
 Začnime s jednoduchým pozorovaním.
 Máme šesť krajín (Poľsko, Chorvátsko, Česko, Litva, Maďarsko, Slovensko),

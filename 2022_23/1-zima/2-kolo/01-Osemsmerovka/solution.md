@@ -1,4 +1,4 @@
-Autor: MisQoF
+Autori: MisQo, Kika
 
 ### Ako začať?
 

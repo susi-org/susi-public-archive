@@ -1,4 +1,4 @@
-Autor: Janči
+Autori: Janči, Pajty, Michal S.
 
 Ako prvé si všimneme, že šifra pozostáva z niekoľkých
 zdanlivo nesúvisiacich častí.

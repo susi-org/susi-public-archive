@@ -1,4 +1,4 @@
-Autor: Michal S.
+Autori: Michal S., Marek S.
 
 Dvojica čísel oddelená lomkou navádza na to, že chceme vyberať niekoľké písmeno (podľa čísla naľavo) z počtu písmen, aký udáva číslo napravo.
 

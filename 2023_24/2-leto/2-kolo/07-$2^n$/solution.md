@@ -1,4 +1,4 @@
-Autori: Viktor, Danko, Janči
+Autori: Danko, Janči, Viktor
 
 V šifre sú nejaké čísla umocnené na iné čísla. Šifra sa volá dva na n. Viac toho nie je, poďme teda trochu analyzovať.
 Zjavne mocníme aj nulu, a záleží na koľkatú. Podobne s jednotkou.

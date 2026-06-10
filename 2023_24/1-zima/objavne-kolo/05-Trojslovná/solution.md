@@ -1,4 +1,4 @@
-Autor: Mišo M.
+Autori: Mišo M., Janči
 
 Šifra pozostáva z troch častí. V prvej máme dva stĺpce -- jeden s anglickými trojslovnými frázami, v druhom sú pod slovenskou vlajkou prázdne riadky. To by nasvedčovalo tomu, že chceme nájsť k anglickým frázam ich slovenské analógie. Doslovný preklad však nedáva nič zmysluplné.
 

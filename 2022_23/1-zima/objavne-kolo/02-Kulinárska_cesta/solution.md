@@ -1,4 +1,4 @@
-Autor:
+Autor: ???
 
 
 Na to, že ide o kulinárske kolo, je v šifre málo vecí priamo súvisiacich s jedlom.

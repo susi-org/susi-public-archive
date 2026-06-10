@@ -1,4 +1,4 @@
-Autor: Michal S.
+Autori: Michal S., Janči
 
 Máme pred sebou kvíz s piatimi otázkami s rôznym počtom odpovedí,
 podľa ktorého by sme mali vedieť zistiť, ktorý vedúci Suši je naša "spriaznená duša".

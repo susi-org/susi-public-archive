@@ -1,4 +1,4 @@
-Autor: Kika
+Autori: Kika, Timka
 
 Heslo. je celé zadanie. Toto nám veľmi veľa významu nedáva a preto sa zameriame na vzhľad šifry.
 Môžeme si všimnúť, že písmenká S a L sú zvláštne malé, písmenká H a E zase zvláštne veľké a je tam ešte bodka.

@@ -1,4 +1,4 @@
-Autor: Oliver
+Autori: Oliver, Janči, Danko
 
 Vidíme 7 viet. Z každej by sme chceli dostať jedno písmeno do riešenia. Môžeme si všimnúť,
 že skoro všetky vety sú nejakým spôsobom rozdelené na 2 časti. Buď niektorou spojkou alebo čiarkou.

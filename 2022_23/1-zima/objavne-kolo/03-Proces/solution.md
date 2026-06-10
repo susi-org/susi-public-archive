@@ -1,4 +1,4 @@
-Autor:
+Autor: ???
 
 Keď sa pozrieme na šifru, nachádza sa pred nami akási schéma.
 Hneď môžeme pozorovať základné vlastnosti, ako napríklad:

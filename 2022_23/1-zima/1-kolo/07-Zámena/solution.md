@@ -1,4 +1,4 @@
-Autor: Danko
+Autori: Danko, Mišo M.
 
 Už samotná forma šifry môže výrazne napovedať, o čo pôjde - nejaká dôležitá komunikácia na diaľku, šifrovaná kľúčom.
 Mohlo by teda ísť o nejaký zaužívaný spôsob komunikácie, napríklad hláskovania, alebo "klasickú" šifru s posunom či výmenou písmen.

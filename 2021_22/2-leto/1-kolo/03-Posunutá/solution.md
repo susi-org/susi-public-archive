@@ -1,4 +1,4 @@
-Autor: Miloš
+Autori: Miloš, Kika
 
 Na prvý pohľad nám môžu znaky pripomínať písmená,
 no nie úplne dávajú zmysel. Môžeme sa chvíľu zamyslieť,

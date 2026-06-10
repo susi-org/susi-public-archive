@@ -1,4 +1,4 @@
-Autor: Michal S.
+Autori: Michal S., Danko, Štepi
 
 Každý z objektov na obrázkoch v šifre má jednu výraznú farbu.
 Keď si obrázky pomenujeme, zistíme, že ku každému názvu

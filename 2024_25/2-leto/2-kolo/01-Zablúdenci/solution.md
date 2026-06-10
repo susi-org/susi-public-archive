@@ -1,4 +1,4 @@
-Autor: Mišo M.
+Autori: Mišo M., Roman
 
 V labyrinte si môžeme všimnúť 6 zvieratiek a 6 rozdielnych predmetov.
 Zvieratká máme zároveň vymenované pod labyrintom.

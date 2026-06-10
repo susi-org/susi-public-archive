@@ -1,4 +1,4 @@
-Autor: Mišo M.
+Autori: Mišo M., Oliver
 
 Ako prvé si môžeme v zadaní všimnúť baterky troch rôznych farieb (červenej, zelenej a modrej).
 To nás môže naviesť k tomu, že baterky tých farieb budú svietiť a chceme sa pozerať na farby, ktoré vzniknú ich spojením.

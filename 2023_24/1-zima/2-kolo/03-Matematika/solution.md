@@ -1,4 +1,4 @@
-Autor: Štepi
+Autori: Štepi, Maťka
 
 Máme tabuľku, ktorá vyzerá ako doplňovačka s tajničkou, ale namiesto písmen sú v nej nejaké čísla.
 Keby sme do nej vedeli doplniť písmenká, mohli by sme potom vo vyfarbenom stĺpci prečítať heslo.

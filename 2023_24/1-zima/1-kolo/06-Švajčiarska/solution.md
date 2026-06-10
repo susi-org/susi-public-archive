@@ -1,4 +1,4 @@
-Autor: Danko
+Autori: Danko, Miloš
 
 V slovách resp. slovných spojeniach oddelených čiarkami môžeme spoznávať niektoré známe jazyky.
 Zo začiatku asi hlavne angličtinu, nemčinu, prípadne fracúzštinu, no isto sú tam aj ďalšie.

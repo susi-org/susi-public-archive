@@ -1,4 +1,4 @@
-Autor: Pajty
+Autori: Pajty, Danko
 
 Keď sa pozrieme na šifru zbadáme noty zlúčené do ôsmych akordov. Akordy sú
 rozdelené do dvoch taktov (oddelených čiarou) a v predznamenaní si všimneme

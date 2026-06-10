@@ -24,10 +24,10 @@ class Record:
     points_after: int
 
     def __str__(self):
-        return ";".join(map(str, (
+        return ",".join(map(str, (
             self.table_year, self.table_part, self.table_round,
             self.name, self.school_year, self.school,
-            self.points_before, ",".join(map(str, self.points)), self.points_sum, self.points_after
+            self.points_before, "+".join(map(str, self.points)), self.points_sum, self.points_after
         )))
     __repr__ = __str__
 
@@ -117,5 +117,5 @@ def download_susi():
     return results
 
 if __name__ == "__main__":
-    print("table_year;table_part;table_round;name;school_year;school;points_before;points;points_sum;points_after")
+    print("table_year,table_part,table_round,name,school_year,school,points_before,points,points_sum,points_after")
     print(*download_susi(), sep='\n')

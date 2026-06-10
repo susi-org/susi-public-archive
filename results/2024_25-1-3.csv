@@ -1,107 +1,107 @@
-table_year;table_part;table_round;name;school_year;school;points_before;points;points_sum;points_after
-2024_25;1;3;Matúš Pokorný;3;GAMČA;142;9,9,9,9,9;45;187
-2024_25;1;3;Matej Bachniček;3;ŠpMNDaG;138;9,9,7,9,9;43;181
-2024_25;1;3;Dan JANEK;42;Iná škola;136;9,0,9,9,7;34;170
-2024_25;1;3;Martin Kollár;39;GAMČA;119;9,0,9,9,9;36;155
-2024_25;1;3;Lenka Juranová;4;gymkepler;116;9,9,9,5,7;39;155
-2024_25;1;3;Marek Murin;13;FMFI UK;136;9,9,0,0,0;18;154
-2024_25;1;3;Dana Zemanová;40;GKJBrn;124;5,9,5,5,0;24;148
-2024_25;1;3;Adam Spaček;4;GĽŠTN;112;9,9,9,9,0;36;148
-2024_25;1;3;Markéta Dlugošová;2;GPUK;115;9,9,0,9,0;27;142
-2024_25;1;3;Tomáš Otrubčák;4;GĽŠTN;114;9,9,0,9,0;27;141
-2024_25;1;3;Michal Masrna;9;FI MUNI;140;0,0,0,0,0;0;140
-2024_25;1;3;Teo Višňovský;2;ŠpMNDaG;117;9,9,0,0,0;18;135
-2024_25;1;3;Daniel Štorcel;2;ŠpMNDaG;103;9,5,5,5,7;31;134
-2024_25;1;3;Adam Daniel Donoval;2;ŠpMNDaG;115;9,9,0,0,0;18;133
-2024_25;1;3;Philip Ivan Levrinc;2;ŠpMNDaG;108;9,9,7,0,0;25;133
-2024_25;1;3;Michal Fiala;2;GAMČA;115;5,0,0,5,0;10;125
-2024_25;1;3;Vincent Huňa;8zš;ŠpMNDaG;97;9,0,9,5,0;23;120
-2024_25;1;3;Filip Majer;4;gymkepler;92;9,9,7,0,0;25;117
-2024_25;1;3;Peter Trebaticky;31;Iná škola;96;0,9,0,0,0;9;105
-2024_25;1;3;Filip Štefko;1;GPUK;94;9,0,0,0,0;9;103
-2024_25;1;3;Richard Prikler;2;GJAR;100;0,0,0,0,0;0;100
-2024_25;1;3;Branislav Ječim;5;FIIT STU;79;5,0,0,7,0;12;91
-2024_25;1;3;Matej Kurbel;3;GMerTT;80;5,0,5,0,0;10;90
-2024_25;1;3;Sarah Klopstock;2;ŠpMNDaG;89;0,0,0,0,0;0;89
-2024_25;1;3;Martin Dudjak;3;SSDTPPbs;88;0,0,0,0,0;0;88
-2024_25;1;3;Veronika Vodičková;4;GALEJE;81;7,0,0,0,0;7;88
-2024_25;1;3;Tomáš Sásik;11;FMFI UK;86;0,0,0,0,0;0;86
-2024_25;1;3;Lenka Janečková;27;Iná škola;86;0,0,0,0,0;0;86
-2024_25;1;3;Tomáš Šipöcz;33;GAMČA;84;0,0,0,0,0;0;84
-2024_25;1;3;Jana Oswaldová;1;GAMČA;64;9,0,0,9,0;18;82
-2024_25;1;3;Andrej Derka;1;GAMČA;81;0,0,0,0,0;0;81
-2024_25;1;3;Eva Zuzana Chlebová;1;ŠpMNDaG;81;0,0,0,0,0;0;81
-2024_25;1;3;Kristína Vitikáčová;1;ŠpMNDaG;81;0,0,0,0,0;0;81
-2024_25;1;3;Rebeka Heřmanová;4;gymkepler;79;0,0,0,0,0;0;79
-2024_25;1;3;Karolína Kačalková;1;ŠpMNDaG;79;0,0,0,0,0;0;79
-2024_25;1;3;Karolína Gajdošová;1;GAMČA;52;9,9,0,9,0;27;79
-2024_25;1;3;Žofia Bartová;1;GJH;77;0,0,0,0,0;0;77
-2024_25;1;3;Petra Čobrdová;3;GSenic;68;9,0,0,0,0;9;77
-2024_25;1;3;Nina Hudakova;1;GALEJE;68;7,0,0,0,0;7;75
-2024_25;1;3;Michaela Plšíková;2;GPUK;65;9,0,0,0,0;9;74
-2024_25;1;3;Marek Hromada;2;ŠpMNDaG;64;0,9,0,0,0;9;73
-2024_25;1;3;Matej Urban;8;GAMČA;72;0,0,0,0,0;0;72
-2024_25;1;3;Lucia Gečanová;4;GPošKE;72;0,0,0,0,0;0;72
-2024_25;1;3;Jakub Dzúr;1;GLuč;65;5,0,0,0,0;5;70
-2024_25;1;3;Michal Polc;2;GEinBA;68;0,0,0,0,0;0;68
-2024_25;1;3;Tamara Krivošíková;1;GJH;56;9,0,0,0,0;9;65
-2024_25;1;3;Lucia Tóthová;1;GAMČA;54;9,0,0,0,0;9;63
-2024_25;1;3;Jakub Krivošík;4;GJH;42;5,9,5,0,0;19;61
-2024_25;1;3;Tereza Vargová;1;ŠpMNDaG;60;0,0,0,0,0;0;60
-2024_25;1;3;Lujza Lea Lavriková;4;GPH;59;0,0,0,0,0;0;59
-2024_25;1;3;Daria Komar;1;ŠpMNDaG;50;7,0,0,0,0;7;57
-2024_25;1;3;Lukáš Gáborik;8;FMFI UK;25;9,9,0,9,5;32;57
-2024_25;1;3;Matúš Masrna;7;MFF CUNI;54;0,0,0,0,0;0;54
-2024_25;1;3;Aino Heřmanová;4;gymkepler;54;0,0,0,0,0;0;54
-2024_25;1;3;Martina Mladá;4;GMalac;40;5,9,0,0,0;14;54
-2024_25;1;3;Dominik Bezák;1;ŠpMNDaG;32;9,7,5,0,0;21;53
-2024_25;1;3;Adela Pulišová;1;chemiraba;45;0,7,0,0,0;7;52
-2024_25;1;3;Katarína Gersová;4;GJH;51;0,0,0,0,0;0;51
-2024_25;1;3;Adela Filkornová;2;GAMČA;42;9,0,0,0,0;9;51
-2024_25;1;3;Samuel Havalda;2;GAMČA;41;0,9,0,0,0;9;50
-2024_25;1;3;Monika Machalová;10;LF MUNI;40;7,0,0,0,0;7;47
-2024_25;1;3;Jiří Uhlíř;22;FI MUNI;45;0,0,0,0,0;0;45
-2024_25;1;3;Ivana Kováčová;2;GAMČA;27;9,9,0,0,0;18;45
-2024_25;1;3;Jozef Smolár;4;GNám;39;0,0,5,0,0;5;44
-2024_25;1;3;Katarína Franců;15;GMetBA;42;0,0,0,0,0;0;42
-2024_25;1;3;Magdaléna Bečková;11;FMFI UK;36;0,0,0,0,0;0;36
-2024_25;1;3;Martin Pistovčák;2;GAMČA;36;0,0,0,0,0;0;36
-2024_25;1;3;Kamil Reinvart;21;Iná škola;36;0,0,0,0,0;0;36
-2024_25;1;3;Jana Uhrinová;10;Iná škola;36;0,0,0,0,0;0;36
-2024_25;1;3;Rastislav Pech;2;GAMČA;36;0,0,0,0,0;0;36
-2024_25;1;3;Alexandra Spitzkopfová;5;FMFI UK;36;0,0,0,0,0;0;36
-2024_25;1;3;Nino Grom;4;GBAS;36;0,0,0,0,0;0;36
-2024_25;1;3;Tomáš Zuzík;1;GAMČA;36;0,0,0,0,0;0;36
-2024_25;1;3;Kayla Kotríková;3;GBAS;35;0,0,0,0,0;0;35
-2024_25;1;3;Michal Pecho;7;SDubn;33;0,0,0,0,0;0;33
-2024_25;1;3;Zuzana Trenčanská;3;GAMČA;33;0,0,0,0,0;0;33
-2024_25;1;3;Veronika Csiba;16;FMFI UK;28;0,0,0,0,0;0;28
-2024_25;1;3;Ela Vojtková;7;GAMČA;27;0,0,0,0,0;0;27
-2024_25;1;3;Dáša Grambličková;4;GJH;27;0,0,0,0,0;0;27
-2024_25;1;3;Tamara Breciková;1;GAMČA;27;0,0,0,0,0;0;27
-2024_25;1;3;Martin Masrna;11;Iná škola;27;0,0,0,0,0;0;27
-2024_25;1;3;Kristýna Janečková;7zš;MenGymRep;27;0,0,0,0,0;0;27
-2024_25;1;3;Klaudia Rybárová;3;GĽŠTN;20;7,0,0,0,0;7;27
-2024_25;1;3;Sofia Široká;2;GRožňa;26;0,0,0,0,0;0;26
-2024_25;1;3;Eva B;25;Iná škola;20;0,0,0,0,0;0;20
-2024_25;1;3;Benjamín Skukálek;4;GĽŠTN;18;0,0,0,0,0;0;18
-2024_25;1;3;Gregor Tichý;1;Iná škola;18;0,0,0,0,0;0;18
-2024_25;1;3;Michaela Chovancová;1;ŠpMNDaG;18;0,0,0,0,0;0;18
-2024_25;1;3;Ivana Tvrdoňová;2;EGLM;10;0,0,0,0,0;0;10
-2024_25;1;3;Zuzana Tomkova;28;Iná škola;10;0,0,0,0,0;0;10
-2024_25;1;3;z t;17;Iná škola;10;0,0,0,0,0;0;10
-2024_25;1;3;Eliška Macáková;5;SZScenada;9;0,0,0,0,0;0;9
-2024_25;1;3;Michaela Kontrišová;4;GJH;9;0,0,0,0,0;0;9
-2024_25;1;3;Ondrej Králik;4;GALEJE;9;0,0,0,0,0;0;9
-2024_25;1;3;Lucia Kleščová;4;GPošKE;9;0,0,0,0,0;0;9
-2024_25;1;3;Alžbeta Nagyová;3;GSenec;9;0,0,0,0,0;0;9
-2024_25;1;3;Michal Haverlík;2;GAMČA;9;0,0,0,0,0;0;9
-2024_25;1;3;Matej Cisko;2;GAMČA;9;0,0,0,0,0;0;9
-2024_25;1;3;Alice deSilva Lágo;17;Iná škola;9;0,0,0,0,0;0;9
-2024_25;1;3;Eliška Galovičová;7;FMFI UK;9;0,0,0,0,0;0;9
-2024_25;1;3;František Nouza;23;Iná škola;9;0,0,0,0,0;0;9
-2024_25;1;3;Erik Novák;7;GPošKE;7;0,0,0,0,0;0;7
-2024_25;1;3;Alex Luis Šutka;1;ŠpMNDaG;0;0,0,0,0,0;0;0
-2024_25;1;3;Peter Šonka;3;GPošKE;0;0,0,0,0,0;0;0
-2024_25;1;3;Katarína Adamková;3;Iná škola;0;0,0,0,0,0;0;0
-2024_25;1;3;Nina Vážna;2;ŠpMNDaG;0;0,0,0,0,0;0;0
+table_year,table_part,table_round,name,school_year,school,points_before,points,points_sum,points_after
+2024_25,1,3,Matúš Pokorný,3,GAMČA,142,9+9+9+9+9,45,187
+2024_25,1,3,Matej Bachniček,3,ŠpMNDaG,138,9+9+7+9+9,43,181
+2024_25,1,3,Dan JANEK,42,Iná škola,136,9+0+9+9+7,34,170
+2024_25,1,3,Martin Kollár,39,GAMČA,119,9+0+9+9+9,36,155
+2024_25,1,3,Lenka Juranová,4,gymkepler,116,9+9+9+5+7,39,155
+2024_25,1,3,Marek Murin,13,FMFI UK,136,9+9+0+0+0,18,154
+2024_25,1,3,Dana Zemanová,40,GKJBrn,124,5+9+5+5+0,24,148
+2024_25,1,3,Adam Spaček,4,GĽŠTN,112,9+9+9+9+0,36,148
+2024_25,1,3,Markéta Dlugošová,2,GPUK,115,9+9+0+9+0,27,142
+2024_25,1,3,Tomáš Otrubčák,4,GĽŠTN,114,9+9+0+9+0,27,141
+2024_25,1,3,Michal Masrna,9,FI MUNI,140,0+0+0+0+0,0,140
+2024_25,1,3,Teo Višňovský,2,ŠpMNDaG,117,9+9+0+0+0,18,135
+2024_25,1,3,Daniel Štorcel,2,ŠpMNDaG,103,9+5+5+5+7,31,134
+2024_25,1,3,Adam Daniel Donoval,2,ŠpMNDaG,115,9+9+0+0+0,18,133
+2024_25,1,3,Philip Ivan Levrinc,2,ŠpMNDaG,108,9+9+7+0+0,25,133
+2024_25,1,3,Michal Fiala,2,GAMČA,115,5+0+0+5+0,10,125
+2024_25,1,3,Vincent Huňa,8zš,ŠpMNDaG,97,9+0+9+5+0,23,120
+2024_25,1,3,Filip Majer,4,gymkepler,92,9+9+7+0+0,25,117
+2024_25,1,3,Peter Trebaticky,31,Iná škola,96,0+9+0+0+0,9,105
+2024_25,1,3,Filip Štefko,1,GPUK,94,9+0+0+0+0,9,103
+2024_25,1,3,Richard Prikler,2,GJAR,100,0+0+0+0+0,0,100
+2024_25,1,3,Branislav Ječim,5,FIIT STU,79,5+0+0+7+0,12,91
+2024_25,1,3,Matej Kurbel,3,GMerTT,80,5+0+5+0+0,10,90
+2024_25,1,3,Sarah Klopstock,2,ŠpMNDaG,89,0+0+0+0+0,0,89
+2024_25,1,3,Martin Dudjak,3,SSDTPPbs,88,0+0+0+0+0,0,88
+2024_25,1,3,Veronika Vodičková,4,GALEJE,81,7+0+0+0+0,7,88
+2024_25,1,3,Tomáš Sásik,11,FMFI UK,86,0+0+0+0+0,0,86
+2024_25,1,3,Lenka Janečková,27,Iná škola,86,0+0+0+0+0,0,86
+2024_25,1,3,Tomáš Šipöcz,33,GAMČA,84,0+0+0+0+0,0,84
+2024_25,1,3,Jana Oswaldová,1,GAMČA,64,9+0+0+9+0,18,82
+2024_25,1,3,Andrej Derka,1,GAMČA,81,0+0+0+0+0,0,81
+2024_25,1,3,Eva Zuzana Chlebová,1,ŠpMNDaG,81,0+0+0+0+0,0,81
+2024_25,1,3,Kristína Vitikáčová,1,ŠpMNDaG,81,0+0+0+0+0,0,81
+2024_25,1,3,Rebeka Heřmanová,4,gymkepler,79,0+0+0+0+0,0,79
+2024_25,1,3,Karolína Kačalková,1,ŠpMNDaG,79,0+0+0+0+0,0,79
+2024_25,1,3,Karolína Gajdošová,1,GAMČA,52,9+9+0+9+0,27,79
+2024_25,1,3,Žofia Bartová,1,GJH,77,0+0+0+0+0,0,77
+2024_25,1,3,Petra Čobrdová,3,GSenic,68,9+0+0+0+0,9,77
+2024_25,1,3,Nina Hudakova,1,GALEJE,68,7+0+0+0+0,7,75
+2024_25,1,3,Michaela Plšíková,2,GPUK,65,9+0+0+0+0,9,74
+2024_25,1,3,Marek Hromada,2,ŠpMNDaG,64,0+9+0+0+0,9,73
+2024_25,1,3,Matej Urban,8,GAMČA,72,0+0+0+0+0,0,72
+2024_25,1,3,Lucia Gečanová,4,GPošKE,72,0+0+0+0+0,0,72
+2024_25,1,3,Jakub Dzúr,1,GLuč,65,5+0+0+0+0,5,70
+2024_25,1,3,Michal Polc,2,GEinBA,68,0+0+0+0+0,0,68
+2024_25,1,3,Tamara Krivošíková,1,GJH,56,9+0+0+0+0,9,65
+2024_25,1,3,Lucia Tóthová,1,GAMČA,54,9+0+0+0+0,9,63
+2024_25,1,3,Jakub Krivošík,4,GJH,42,5+9+5+0+0,19,61
+2024_25,1,3,Tereza Vargová,1,ŠpMNDaG,60,0+0+0+0+0,0,60
+2024_25,1,3,Lujza Lea Lavriková,4,GPH,59,0+0+0+0+0,0,59
+2024_25,1,3,Daria Komar,1,ŠpMNDaG,50,7+0+0+0+0,7,57
+2024_25,1,3,Lukáš Gáborik,8,FMFI UK,25,9+9+0+9+5,32,57
+2024_25,1,3,Matúš Masrna,7,MFF CUNI,54,0+0+0+0+0,0,54
+2024_25,1,3,Aino Heřmanová,4,gymkepler,54,0+0+0+0+0,0,54
+2024_25,1,3,Martina Mladá,4,GMalac,40,5+9+0+0+0,14,54
+2024_25,1,3,Dominik Bezák,1,ŠpMNDaG,32,9+7+5+0+0,21,53
+2024_25,1,3,Adela Pulišová,1,chemiraba,45,0+7+0+0+0,7,52
+2024_25,1,3,Katarína Gersová,4,GJH,51,0+0+0+0+0,0,51
+2024_25,1,3,Adela Filkornová,2,GAMČA,42,9+0+0+0+0,9,51
+2024_25,1,3,Samuel Havalda,2,GAMČA,41,0+9+0+0+0,9,50
+2024_25,1,3,Monika Machalová,10,LF MUNI,40,7+0+0+0+0,7,47
+2024_25,1,3,Jiří Uhlíř,22,FI MUNI,45,0+0+0+0+0,0,45
+2024_25,1,3,Ivana Kováčová,2,GAMČA,27,9+9+0+0+0,18,45
+2024_25,1,3,Jozef Smolár,4,GNám,39,0+0+5+0+0,5,44
+2024_25,1,3,Katarína Franců,15,GMetBA,42,0+0+0+0+0,0,42
+2024_25,1,3,Magdaléna Bečková,11,FMFI UK,36,0+0+0+0+0,0,36
+2024_25,1,3,Martin Pistovčák,2,GAMČA,36,0+0+0+0+0,0,36
+2024_25,1,3,Kamil Reinvart,21,Iná škola,36,0+0+0+0+0,0,36
+2024_25,1,3,Jana Uhrinová,10,Iná škola,36,0+0+0+0+0,0,36
+2024_25,1,3,Rastislav Pech,2,GAMČA,36,0+0+0+0+0,0,36
+2024_25,1,3,Alexandra Spitzkopfová,5,FMFI UK,36,0+0+0+0+0,0,36
+2024_25,1,3,Nino Grom,4,GBAS,36,0+0+0+0+0,0,36
+2024_25,1,3,Tomáš Zuzík,1,GAMČA,36,0+0+0+0+0,0,36
+2024_25,1,3,Kayla Kotríková,3,GBAS,35,0+0+0+0+0,0,35
+2024_25,1,3,Michal Pecho,7,SDubn,33,0+0+0+0+0,0,33
+2024_25,1,3,Zuzana Trenčanská,3,GAMČA,33,0+0+0+0+0,0,33
+2024_25,1,3,Veronika Csiba,16,FMFI UK,28,0+0+0+0+0,0,28
+2024_25,1,3,Ela Vojtková,7,GAMČA,27,0+0+0+0+0,0,27
+2024_25,1,3,Dáša Grambličková,4,GJH,27,0+0+0+0+0,0,27
+2024_25,1,3,Tamara Breciková,1,GAMČA,27,0+0+0+0+0,0,27
+2024_25,1,3,Martin Masrna,11,Iná škola,27,0+0+0+0+0,0,27
+2024_25,1,3,Kristýna Janečková,7zš,MenGymRep,27,0+0+0+0+0,0,27
+2024_25,1,3,Klaudia Rybárová,3,GĽŠTN,20,7+0+0+0+0,7,27
+2024_25,1,3,Sofia Široká,2,GRožňa,26,0+0+0+0+0,0,26
+2024_25,1,3,Eva B,25,Iná škola,20,0+0+0+0+0,0,20
+2024_25,1,3,Benjamín Skukálek,4,GĽŠTN,18,0+0+0+0+0,0,18
+2024_25,1,3,Gregor Tichý,1,Iná škola,18,0+0+0+0+0,0,18
+2024_25,1,3,Michaela Chovancová,1,ŠpMNDaG,18,0+0+0+0+0,0,18
+2024_25,1,3,Ivana Tvrdoňová,2,EGLM,10,0+0+0+0+0,0,10
+2024_25,1,3,Zuzana Tomkova,28,Iná škola,10,0+0+0+0+0,0,10
+2024_25,1,3,z t,17,Iná škola,10,0+0+0+0+0,0,10
+2024_25,1,3,Eliška Macáková,5,SZScenada,9,0+0+0+0+0,0,9
+2024_25,1,3,Michaela Kontrišová,4,GJH,9,0+0+0+0+0,0,9
+2024_25,1,3,Ondrej Králik,4,GALEJE,9,0+0+0+0+0,0,9
+2024_25,1,3,Lucia Kleščová,4,GPošKE,9,0+0+0+0+0,0,9
+2024_25,1,3,Alžbeta Nagyová,3,GSenec,9,0+0+0+0+0,0,9
+2024_25,1,3,Michal Haverlík,2,GAMČA,9,0+0+0+0+0,0,9
+2024_25,1,3,Matej Cisko,2,GAMČA,9,0+0+0+0+0,0,9
+2024_25,1,3,Alice deSilva Lágo,17,Iná škola,9,0+0+0+0+0,0,9
+2024_25,1,3,Eliška Galovičová,7,FMFI UK,9,0+0+0+0+0,0,9
+2024_25,1,3,František Nouza,23,Iná škola,9,0+0+0+0+0,0,9
+2024_25,1,3,Erik Novák,7,GPošKE,7,0+0+0+0+0,0,7
+2024_25,1,3,Alex Luis Šutka,1,ŠpMNDaG,0,0+0+0+0+0,0,0
+2024_25,1,3,Peter Šonka,3,GPošKE,0,0+0+0+0+0,0,0
+2024_25,1,3,Katarína Adamková,3,Iná škola,0,0+0+0+0+0,0,0
+2024_25,1,3,Nina Vážna,2,ŠpMNDaG,0,0+0+0+0+0,0,0

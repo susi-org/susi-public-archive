@@ -1,130 +1,130 @@
-table_year;table_part;table_round;name;school_year;school;points_before;points;points_sum;points_after
-2020_21;1;1;Marek Murin;9;FMFI UK;0;6,6,0,6,0,6,6;30;30
-2020_21;1;1;Anino Belan;38;ŠpMNDaG;0;6,6,0,6,6,6,0;30;30
-2020_21;1;1;Jozef Rajník;11;FMFI UK;0;6,6,4,6,6,6,6;40;30
-2020_21;1;1;Marianna Hronská;4;GBAS;0;6,6,6,6,4,6,6;40;30
-2020_21;1;1;Matúš Hladký;3;ŠpMNDaG;0;6,6,6,6,0,6,0;30;30
-2020_21;1;1;Samuel Krajči;6;GALEJE;0;6,6,0,6,0,6,6;30;30
-2020_21;1;1;Terézia Gurová;4;Leaf;0;6,6,6,6,4,6,6;40;30
-2020_21;1;1;Daniel Teplan;3;SZScenada;0;6,6,6,6,4,6,6;40;30
-2020_21;1;1;Lukáš Gáborik;4;GJGT;0;6,4,6,6,6,6,6;40;30
-2020_21;1;1;Martin Vodička;12;MPI;0;6,6,0,6,0,6,6;30;30
-2020_21;1;1;Matej Zigo;2;ŠpMNDaG;0;6,6,6,6,2,6,6;38;30
-2020_21;1;1;Michal Urban;2;GAMČA;0;6,6,6,6,2,6,6;38;30
-2020_21;1;1;Adam Gramblička;2;GAMČA;0;6,6,6,6,2,6,6;38;30
-2020_21;1;1;Timea Jakubócyová;4;GBAS;0;6,4,6,6,4,6,6;38;30
-2020_21;1;1;Ela Vojtková;3;GAMČA;0;6,6,6,6,4,6,6;40;30
-2020_21;1;1;Viktória Pravdová;4;GJH;0;6,6,6,6,6,6,6;42;30
-2020_21;1;1;Tereza Vranová;2;GAMČA;0;6,6,6,6,0,6,6;36;30
-2020_21;1;1;Martin Štěpánek;2;GJH;0;4,6,6,6,4,6,6;38;30
-2020_21;1;1;Martin Belluš;2;GAMČA;0;6,0,6,6,4,6,6;34;30
-2020_21;1;1;Jakub Šošovička;2;SZScenada;0;6,6,6,6,4,6,6;40;30
-2020_21;1;1;Matúš Duchyňa;2;GAMČA;0;6,6,6,6,2,6,6;38;30
-2020_21;1;1;Ján Plachý;3;GPriev;0;6,6,6,6,2,6,6;38;30
-2020_21;1;1;Samuel Šipöcz;9zš;narniabb;0;6,6,4,6,4,6,6;38;30
-2020_21;1;1;Martin Kollár;35;GAMČA;0;6,6,4,6,4,6,6;38;30
-2020_21;1;1;Michal Kesely;20;Iná škola;0;6,6,6,6,6,6,0;36;30
-2020_21;1;1;Martin Králik;19;GAMČA;0;6,6,0,6,6,6,0;30;30
-2020_21;1;1;Kristína Mišlanová;9;Iná škola;0;6,6,0,6,0,6,6;30;30
-2020_21;1;1;Lenka Stahlová;4;ŠpMNDaG;0;6,6,4,6,2,6,6;36;30
-2020_21;1;1;Ondrej Szekely;22;GCSLewis;0;6,6,0,6,0,6,6;30;30
-2020_21;1;1;Peter Trebaticky;27;Iná škola;0;6,6,4,6,4,6,6;38;30
-2020_21;1;1;Andrej Madunický;5;Iná škola;0;6,6,4,6,2,6,6;36;30
-2020_21;1;1;Daniela Kuruczova;19;PřF MUNI;0;6,6,6,6,6,6,6;42;30
-2020_21;1;1;Michal Hajdin;17;Iná škola;0;6,6,4,6,4,6,6;38;30
-2020_21;1;1;Martin Svetlík;18;Iná škola;0;6,6,0,6,6,2,6;32;30
-2020_21;1;1;Tomáš Šipöcz;29;GAMČA;0;6,6,4,6,4,6,6;38;30
-2020_21;1;1;Jakub Beran;19;FMFI UK;0;6,6,6,6,4,6,6;40;30
-2020_21;1;1;Daniel Jandora;10;Iná škola;0;6,6,4,6,2,6,6;36;30
-2020_21;1;1;Lenka Weingartová;21;Iná škola;0;6,6,4,6,4,6,6;38;30
-2020_21;1;1;Petr Novák;21;Iná škola;0;6,6,4,6,4,6,6;38;30
-2020_21;1;1;Lukáš Konečný;17;GPiešť;0;6,6,0,6,0,6,6;30;30
-2020_21;1;1;Matej Urban;4;GAMČA;0;0,0,6,6,4,6,6;28;28
-2020_21;1;1;Jakub Skaloš;3;ŠpMNDaG;0;6,6,6,6,0,4,0;28;28
-2020_21;1;1;Erik Tóth;2;GJH;0;0,0,6,6,4,6,6;28;28
-2020_21;1;1;Martin Kopčány;2;GBrez;0;4,6,0,6,0,6,6;28;28
-2020_21;1;1;Ján Féder;21;Iná škola;0;6,6,4,4,0,6,6;32;28
-2020_21;1;1;Magdaléna Bečková;7;Iná škola;0;6,6,6,6,2,4,2;32;28
-2020_21;1;1;Vojto Balint;32;Iná škola;0;6,6,4,6,0,6,0;28;28
-2020_21;1;1;Matej Bachniček;8zš;ŠpMNDaG;0;6,6,4,6,4,6,0;32;28
-2020_21;1;1;Jakub Cimerman;12;Iná škola;0;6,6,6,6,4,4,0;32;28
-2020_21;1;1;Monika Machalová;6;LF MUNI;0;6,6,0,6,0,6,2;26;26
-2020_21;1;1;Katarína Demčáková;5;Iná škola;0;6,6,4,2,2,4,6;30;26
-2020_21;1;1;Veronika Plachá;1;GPriev;0;6,6,2,6,0,6,0;26;26
-2020_21;1;1;Veronika Demčáková;8;Iná škola;0;6,6,4,2,2,4,6;30;26
-2020_21;1;1;Samuel Cibulka;13;GJH;0;6,6,0,6,0,6,0;24;24
-2020_21;1;1;Jakub Kliment;4;GJGT;0;0,0,6,6,4,6,2;24;24
-2020_21;1;1;Anamária Šutková;2;ŠpMNDaG;0;6,6,6,6,0,0,0;24;24
-2020_21;1;1;Matej Novosad;3;ŠpMNDaG;0;6,6,6,6,0,0,0;24;24
-2020_21;1;1;Michal Farnbauer;4;GAMČA;0;6,0,6,6,0,6,0;24;24
-2020_21;1;1;Alica Dományová;1;GAMČA;0;6,4,4,6,2,4,0;26;24
-2020_21;1;1;Michaela Leinwatherová;7;GVazBA;0;6,6,0,6,2,2,0;22;22
-2020_21;1;1;Pavol Pivko;3;GAMČA;0;6,4,4,4,2,4,0;24;22
-2020_21;1;1;Stanislav Bezák;2;ŠpMNDaG;0;0,0,4,6,4,6,0;20;20
-2020_21;1;1;Stela Blažeková;2;GBAS;0;4,6,0,4,2,2,0;18;18
-2020_21;1;1;Viktor Balan;3;GAMČA;0;0,0,0,6,0,6,6;18;18
-2020_21;1;1;Tereza Škublová;4;GAMČA;0;6,0,0,6,0,6,0;18;18
-2020_21;1;1;Marek Sádovský;3;SPŠSE;0;6,6,0,6,0,0,0;18;18
-2020_21;1;1;Tomáš Proks;2;GALEJE;0;6,6,2,2,2,0,0;18;18
-2020_21;1;1;Václav Janáček;4;GKJBrn;0;0,0,0,6,0,6,6;18;18
-2020_21;1;1;Zdeněk Pezlar;3;GKJBrn;0;6,0,0,6,0,6,0;18;18
-2020_21;1;1;Dominika Krejčí;10;FI MUNI;0;6,6,0,0,0,6,0;18;18
-2020_21;1;1;Matúš Bagin;1;GAMČA;0;4,4,0,4,2,4,0;18;18
-2020_21;1;1;Matúš Petruľák;20;GAMČA;0;0,6,0,6,0,6,0;18;18
-2020_21;1;1;Jakub Drobný;3;ŠpMNDaG;0;6,6,0,0,0,4,0;16;16
-2020_21;1;1;Filip Prutkay;1;GAMČA;0;4,4,4,4,0,0,0;16;16
-2020_21;1;1;Uršuľa Mária Kossaczká;1;GAMČA;0;6,0,4,6,0,0,0;16;16
-2020_21;1;1;Berta Papulová;3;GAMČA;0;6,6,4,0,0,0,0;16;16
-2020_21;1;1;Jana Fľaková;1;GAMČA;0;4,4,0,4,0,4,0;16;16
-2020_21;1;1;Soňa Slobodníková;20;Iná škola;0;6,6,3,0,0,0,0;15;15
-2020_21;1;1;Daniel Dokupil;9zš;EvLýBA;0;6,6,0,2,0,0,0;14;14
-2020_21;1;1;Zuzana Mičeková;9zš;GJH;0;4,4,2,2,2,0,0;14;14
-2020_21;1;1;Adrianka Janáčková;4;ŠpMNDaG;0;0,0,0,4,2,4,2;12;12
-2020_21;1;1;Maroš Studenič;4;GJH;0;6,6,0,0,0,0,0;12;12
-2020_21;1;1;František Michal Sebestyén;9;FMFI UK;0;6,6,0,0,0,0,0;12;12
-2020_21;1;1;Barbora Novosadová;3;PiaGTN;0;6,6,0,0,0,0,0;12;12
-2020_21;1;1;Nela Ďanovská;3;ŠpMNDaG;0;6,6,0,0,0,0,0;12;12
-2020_21;1;1;Adam Džavoronok;2;GPošKE;0;0,4,4,2,0,2,0;12;12
-2020_21;1;1;Zuzana Hladká;2;ŠpMNDaG;0;6,6,0,0,0,0,0;12;12
-2020_21;1;1;Samuel Dokupil;3;ELBA;0;6,6,0,0,0,0,0;12;12
-2020_21;1;1;Martina Erdelyi Gancarova;27;Iná škola;0;6,6,0,0,0,0,0;12;12
-2020_21;1;1;Lukas Racko;7;Iná škola;0;6,6,0,0,0,0,0;12;12
-2020_21;1;1;Tamara Hudáková;8;Iná škola;0;6,6,0,0,0,0,0;12;12
-2020_21;1;1;Jozef Jakubik;17;Iná škola;0;6,6,0,0,0,0,0;12;12
-2020_21;1;1;Iva Jancigova;25;Iná škola;0;6,6,0,0,0,0,0;12;12
-2020_21;1;1;Laura Vojtková;2;GCSLewis;0;6,6,0,0,0,0,0;12;12
-2020_21;1;1;Emily Furinda;2;GCSLewis;0;6,6,0,0,0,0,0;12;12
-2020_21;1;1;Tomáš Klouda;20;Iná škola;0;0,6,0,0,0,6,0;12;12
-2020_21;1;1;Martin Fof;3;Iná škola;0;4,0,0,4,4,0,0;12;12
-2020_21;1;1;Adam Krídl;6;GSkal;0;4,2,4,0,0,0,0;10;10
-2020_21;1;1;Katarína Franců;11;GMetBA;0;4,6,0,0,0,0,0;10;10
-2020_21;1;1;Matej Kurbel;8zš;cirkevnazssered;0;2,2,2,2,0,0,2;10;10
-2020_21;1;1;Marek Majerik;1;GAMČA;0;4,4,0,2,0,0,0;10;10
-2020_21;1;1;Andrej Mikuš;3;GCM;0;4,0,2,0,2,0,0;8;8
-2020_21;1;1;Filip Jay Doba;2;ŠpMNDaG;0;4,0,0,2,0,2,0;8;8
-2020_21;1;1;Timon Vereš;8zš;Iná škola;0;4,4,0,0,0,0,0;8;8
-2020_21;1;1;Erik Novák;3;GPošKE;0;2,2,0,2,2,0,0;8;8
-2020_21;1;1;Šimon Pajger;7;GVOZA;0;0,0,0,6,0,0,0;6;6
-2020_21;1;1;Tomáš Zatroch;3;ŠpMNDaG;0;6,0,0,0,0,0,0;6;6
-2020_21;1;1;Alexandra Barančíková;2;ŠpMNDaG;0;6,0,0,0,0,0,0;6;6
-2020_21;1;1;Viktor Imrišek;2;GAMČA;0;0,0,0,0,0,0,6;6;6
-2020_21;1;1;Ondrej Alexaj;4;GTatPP;0;6,0,0,0,0,0,0;6;6
-2020_21;1;1;Natália Čigašová;2;GPošKE;0;2,2,0,2,0,0,0;6;6
-2020_21;1;1;Peter Deván;2;ŠpMNDaG;0;6,0,0,0,0,0,0;6;6
-2020_21;1;1;Fedor Zajac;19;Iná škola;0;0,6,0,0,0,0,0;6;6
-2020_21;1;1;Matúš Horváth;27;Iná škola;0;6,0,0,0,0,0,0;6;6
-2020_21;1;1;Ivona Mikljanová;4;Iná škola;0;6,0,0,0,0,0,0;6;6
-2020_21;1;1;Miroslav Pajger;9zš;GBAS;0;6,0,0,0,0,0,0;6;6
-2020_21;1;1;Test Tester;25;Iná škola;0;0,6,0,0,0,0,0;6;6
-2020_21;1;1;Martin Kalab;3;ŠpMNDaG;0;0,0,0,5,0,0,0;5;5
-2020_21;1;1;Eliška Macáková;1;SZScenada;0;4,0,0,0,0,0,0;4;4
-2020_21;1;1;Adam Zahradník;4;GMetBA;0;4,0,0,0,0,0,0;4;4
-2020_21;1;1;Csaba Daniel Farkaš;3;Iná škola;0;4,0,0,0,0,0,0;4;4
-2020_21;1;1;Daniel Medveczky;1;GAMČA;0;4,0,0,0,0,0,0;4;4
-2020_21;1;1;Adam Haluška;3;GHMich;0;4,0,0,0,0,0,0;4;4
-2020_21;1;1;Matej Kurbel;8zš;cirkevnazssered;0;4,0,0,0,0,0,0;4;4
-2020_21;1;1;Patrik Kočan;4;Iná škola;0;2,0,0,0,0,0,0;2;2
-2020_21;1;1;Andrej T. Dobrev;4;GJH;0;0,0,0,0,0,0,0;0;0
-2020_21;1;1;Kristina Rybarova;4;GĽŠTN;0;0,0,0,0,0,0,0;0;0
-2020_21;1;1;Dominika Brillová;9zš;Iná škola;0;0,0,0,0,0,0,0;0;0
-2020_21;1;1;Tomas Sušina;2;GBajkBA;0;0,0,0,0,0,0,0;0;0
+table_year,table_part,table_round,name,school_year,school,points_before,points,points_sum,points_after
+2020_21,1,1,Marek Murin,9,FMFI UK,0,6+6+0+6+0+6+6,30,30
+2020_21,1,1,Anino Belan,38,ŠpMNDaG,0,6+6+0+6+6+6+0,30,30
+2020_21,1,1,Jozef Rajník,11,FMFI UK,0,6+6+4+6+6+6+6,40,30
+2020_21,1,1,Marianna Hronská,4,GBAS,0,6+6+6+6+4+6+6,40,30
+2020_21,1,1,Matúš Hladký,3,ŠpMNDaG,0,6+6+6+6+0+6+0,30,30
+2020_21,1,1,Samuel Krajči,6,GALEJE,0,6+6+0+6+0+6+6,30,30
+2020_21,1,1,Terézia Gurová,4,Leaf,0,6+6+6+6+4+6+6,40,30
+2020_21,1,1,Daniel Teplan,3,SZScenada,0,6+6+6+6+4+6+6,40,30
+2020_21,1,1,Lukáš Gáborik,4,GJGT,0,6+4+6+6+6+6+6,40,30
+2020_21,1,1,Martin Vodička,12,MPI,0,6+6+0+6+0+6+6,30,30
+2020_21,1,1,Matej Zigo,2,ŠpMNDaG,0,6+6+6+6+2+6+6,38,30
+2020_21,1,1,Michal Urban,2,GAMČA,0,6+6+6+6+2+6+6,38,30
+2020_21,1,1,Adam Gramblička,2,GAMČA,0,6+6+6+6+2+6+6,38,30
+2020_21,1,1,Timea Jakubócyová,4,GBAS,0,6+4+6+6+4+6+6,38,30
+2020_21,1,1,Ela Vojtková,3,GAMČA,0,6+6+6+6+4+6+6,40,30
+2020_21,1,1,Viktória Pravdová,4,GJH,0,6+6+6+6+6+6+6,42,30
+2020_21,1,1,Tereza Vranová,2,GAMČA,0,6+6+6+6+0+6+6,36,30
+2020_21,1,1,Martin Štěpánek,2,GJH,0,4+6+6+6+4+6+6,38,30
+2020_21,1,1,Martin Belluš,2,GAMČA,0,6+0+6+6+4+6+6,34,30
+2020_21,1,1,Jakub Šošovička,2,SZScenada,0,6+6+6+6+4+6+6,40,30
+2020_21,1,1,Matúš Duchyňa,2,GAMČA,0,6+6+6+6+2+6+6,38,30
+2020_21,1,1,Ján Plachý,3,GPriev,0,6+6+6+6+2+6+6,38,30
+2020_21,1,1,Samuel Šipöcz,9zš,narniabb,0,6+6+4+6+4+6+6,38,30
+2020_21,1,1,Martin Kollár,35,GAMČA,0,6+6+4+6+4+6+6,38,30
+2020_21,1,1,Michal Kesely,20,Iná škola,0,6+6+6+6+6+6+0,36,30
+2020_21,1,1,Martin Králik,19,GAMČA,0,6+6+0+6+6+6+0,30,30
+2020_21,1,1,Kristína Mišlanová,9,Iná škola,0,6+6+0+6+0+6+6,30,30
+2020_21,1,1,Lenka Stahlová,4,ŠpMNDaG,0,6+6+4+6+2+6+6,36,30
+2020_21,1,1,Ondrej Szekely,22,GCSLewis,0,6+6+0+6+0+6+6,30,30
+2020_21,1,1,Peter Trebaticky,27,Iná škola,0,6+6+4+6+4+6+6,38,30
+2020_21,1,1,Andrej Madunický,5,Iná škola,0,6+6+4+6+2+6+6,36,30
+2020_21,1,1,Daniela Kuruczova,19,PřF MUNI,0,6+6+6+6+6+6+6,42,30
+2020_21,1,1,Michal Hajdin,17,Iná škola,0,6+6+4+6+4+6+6,38,30
+2020_21,1,1,Martin Svetlík,18,Iná škola,0,6+6+0+6+6+2+6,32,30
+2020_21,1,1,Tomáš Šipöcz,29,GAMČA,0,6+6+4+6+4+6+6,38,30
+2020_21,1,1,Jakub Beran,19,FMFI UK,0,6+6+6+6+4+6+6,40,30
+2020_21,1,1,Daniel Jandora,10,Iná škola,0,6+6+4+6+2+6+6,36,30
+2020_21,1,1,Lenka Weingartová,21,Iná škola,0,6+6+4+6+4+6+6,38,30
+2020_21,1,1,Petr Novák,21,Iná škola,0,6+6+4+6+4+6+6,38,30
+2020_21,1,1,Lukáš Konečný,17,GPiešť,0,6+6+0+6+0+6+6,30,30
+2020_21,1,1,Matej Urban,4,GAMČA,0,0+0+6+6+4+6+6,28,28
+2020_21,1,1,Jakub Skaloš,3,ŠpMNDaG,0,6+6+6+6+0+4+0,28,28
+2020_21,1,1,Erik Tóth,2,GJH,0,0+0+6+6+4+6+6,28,28
+2020_21,1,1,Martin Kopčány,2,GBrez,0,4+6+0+6+0+6+6,28,28
+2020_21,1,1,Ján Féder,21,Iná škola,0,6+6+4+4+0+6+6,32,28
+2020_21,1,1,Magdaléna Bečková,7,Iná škola,0,6+6+6+6+2+4+2,32,28
+2020_21,1,1,Vojto Balint,32,Iná škola,0,6+6+4+6+0+6+0,28,28
+2020_21,1,1,Matej Bachniček,8zš,ŠpMNDaG,0,6+6+4+6+4+6+0,32,28
+2020_21,1,1,Jakub Cimerman,12,Iná škola,0,6+6+6+6+4+4+0,32,28
+2020_21,1,1,Monika Machalová,6,LF MUNI,0,6+6+0+6+0+6+2,26,26
+2020_21,1,1,Katarína Demčáková,5,Iná škola,0,6+6+4+2+2+4+6,30,26
+2020_21,1,1,Veronika Plachá,1,GPriev,0,6+6+2+6+0+6+0,26,26
+2020_21,1,1,Veronika Demčáková,8,Iná škola,0,6+6+4+2+2+4+6,30,26
+2020_21,1,1,Samuel Cibulka,13,GJH,0,6+6+0+6+0+6+0,24,24
+2020_21,1,1,Jakub Kliment,4,GJGT,0,0+0+6+6+4+6+2,24,24
+2020_21,1,1,Anamária Šutková,2,ŠpMNDaG,0,6+6+6+6+0+0+0,24,24
+2020_21,1,1,Matej Novosad,3,ŠpMNDaG,0,6+6+6+6+0+0+0,24,24
+2020_21,1,1,Michal Farnbauer,4,GAMČA,0,6+0+6+6+0+6+0,24,24
+2020_21,1,1,Alica Dományová,1,GAMČA,0,6+4+4+6+2+4+0,26,24
+2020_21,1,1,Michaela Leinwatherová,7,GVazBA,0,6+6+0+6+2+2+0,22,22
+2020_21,1,1,Pavol Pivko,3,GAMČA,0,6+4+4+4+2+4+0,24,22
+2020_21,1,1,Stanislav Bezák,2,ŠpMNDaG,0,0+0+4+6+4+6+0,20,20
+2020_21,1,1,Stela Blažeková,2,GBAS,0,4+6+0+4+2+2+0,18,18
+2020_21,1,1,Viktor Balan,3,GAMČA,0,0+0+0+6+0+6+6,18,18
+2020_21,1,1,Tereza Škublová,4,GAMČA,0,6+0+0+6+0+6+0,18,18
+2020_21,1,1,Marek Sádovský,3,SPŠSE,0,6+6+0+6+0+0+0,18,18
+2020_21,1,1,Tomáš Proks,2,GALEJE,0,6+6+2+2+2+0+0,18,18
+2020_21,1,1,Václav Janáček,4,GKJBrn,0,0+0+0+6+0+6+6,18,18
+2020_21,1,1,Zdeněk Pezlar,3,GKJBrn,0,6+0+0+6+0+6+0,18,18
+2020_21,1,1,Dominika Krejčí,10,FI MUNI,0,6+6+0+0+0+6+0,18,18
+2020_21,1,1,Matúš Bagin,1,GAMČA,0,4+4+0+4+2+4+0,18,18
+2020_21,1,1,Matúš Petruľák,20,GAMČA,0,0+6+0+6+0+6+0,18,18
+2020_21,1,1,Jakub Drobný,3,ŠpMNDaG,0,6+6+0+0+0+4+0,16,16
+2020_21,1,1,Filip Prutkay,1,GAMČA,0,4+4+4+4+0+0+0,16,16
+2020_21,1,1,Uršuľa Mária Kossaczká,1,GAMČA,0,6+0+4+6+0+0+0,16,16
+2020_21,1,1,Berta Papulová,3,GAMČA,0,6+6+4+0+0+0+0,16,16
+2020_21,1,1,Jana Fľaková,1,GAMČA,0,4+4+0+4+0+4+0,16,16
+2020_21,1,1,Soňa Slobodníková,20,Iná škola,0,6+6+3+0+0+0+0,15,15
+2020_21,1,1,Daniel Dokupil,9zš,EvLýBA,0,6+6+0+2+0+0+0,14,14
+2020_21,1,1,Zuzana Mičeková,9zš,GJH,0,4+4+2+2+2+0+0,14,14
+2020_21,1,1,Adrianka Janáčková,4,ŠpMNDaG,0,0+0+0+4+2+4+2,12,12
+2020_21,1,1,Maroš Studenič,4,GJH,0,6+6+0+0+0+0+0,12,12
+2020_21,1,1,František Michal Sebestyén,9,FMFI UK,0,6+6+0+0+0+0+0,12,12
+2020_21,1,1,Barbora Novosadová,3,PiaGTN,0,6+6+0+0+0+0+0,12,12
+2020_21,1,1,Nela Ďanovská,3,ŠpMNDaG,0,6+6+0+0+0+0+0,12,12
+2020_21,1,1,Adam Džavoronok,2,GPošKE,0,0+4+4+2+0+2+0,12,12
+2020_21,1,1,Zuzana Hladká,2,ŠpMNDaG,0,6+6+0+0+0+0+0,12,12
+2020_21,1,1,Samuel Dokupil,3,ELBA,0,6+6+0+0+0+0+0,12,12
+2020_21,1,1,Martina Erdelyi Gancarova,27,Iná škola,0,6+6+0+0+0+0+0,12,12
+2020_21,1,1,Lukas Racko,7,Iná škola,0,6+6+0+0+0+0+0,12,12
+2020_21,1,1,Tamara Hudáková,8,Iná škola,0,6+6+0+0+0+0+0,12,12
+2020_21,1,1,Jozef Jakubik,17,Iná škola,0,6+6+0+0+0+0+0,12,12
+2020_21,1,1,Iva Jancigova,25,Iná škola,0,6+6+0+0+0+0+0,12,12
+2020_21,1,1,Laura Vojtková,2,GCSLewis,0,6+6+0+0+0+0+0,12,12
+2020_21,1,1,Emily Furinda,2,GCSLewis,0,6+6+0+0+0+0+0,12,12
+2020_21,1,1,Tomáš Klouda,20,Iná škola,0,0+6+0+0+0+6+0,12,12
+2020_21,1,1,Martin Fof,3,Iná škola,0,4+0+0+4+4+0+0,12,12
+2020_21,1,1,Adam Krídl,6,GSkal,0,4+2+4+0+0+0+0,10,10
+2020_21,1,1,Katarína Franců,11,GMetBA,0,4+6+0+0+0+0+0,10,10
+2020_21,1,1,Matej Kurbel,8zš,cirkevnazssered,0,2+2+2+2+0+0+2,10,10
+2020_21,1,1,Marek Majerik,1,GAMČA,0,4+4+0+2+0+0+0,10,10
+2020_21,1,1,Andrej Mikuš,3,GCM,0,4+0+2+0+2+0+0,8,8
+2020_21,1,1,Filip Jay Doba,2,ŠpMNDaG,0,4+0+0+2+0+2+0,8,8
+2020_21,1,1,Timon Vereš,8zš,Iná škola,0,4+4+0+0+0+0+0,8,8
+2020_21,1,1,Erik Novák,3,GPošKE,0,2+2+0+2+2+0+0,8,8
+2020_21,1,1,Šimon Pajger,7,GVOZA,0,0+0+0+6+0+0+0,6,6
+2020_21,1,1,Tomáš Zatroch,3,ŠpMNDaG,0,6+0+0+0+0+0+0,6,6
+2020_21,1,1,Alexandra Barančíková,2,ŠpMNDaG,0,6+0+0+0+0+0+0,6,6
+2020_21,1,1,Viktor Imrišek,2,GAMČA,0,0+0+0+0+0+0+6,6,6
+2020_21,1,1,Ondrej Alexaj,4,GTatPP,0,6+0+0+0+0+0+0,6,6
+2020_21,1,1,Natália Čigašová,2,GPošKE,0,2+2+0+2+0+0+0,6,6
+2020_21,1,1,Peter Deván,2,ŠpMNDaG,0,6+0+0+0+0+0+0,6,6
+2020_21,1,1,Fedor Zajac,19,Iná škola,0,0+6+0+0+0+0+0,6,6
+2020_21,1,1,Matúš Horváth,27,Iná škola,0,6+0+0+0+0+0+0,6,6
+2020_21,1,1,Ivona Mikljanová,4,Iná škola,0,6+0+0+0+0+0+0,6,6
+2020_21,1,1,Miroslav Pajger,9zš,GBAS,0,6+0+0+0+0+0+0,6,6
+2020_21,1,1,Test Tester,25,Iná škola,0,0+6+0+0+0+0+0,6,6
+2020_21,1,1,Martin Kalab,3,ŠpMNDaG,0,0+0+0+5+0+0+0,5,5
+2020_21,1,1,Eliška Macáková,1,SZScenada,0,4+0+0+0+0+0+0,4,4
+2020_21,1,1,Adam Zahradník,4,GMetBA,0,4+0+0+0+0+0+0,4,4
+2020_21,1,1,Csaba Daniel Farkaš,3,Iná škola,0,4+0+0+0+0+0+0,4,4
+2020_21,1,1,Daniel Medveczky,1,GAMČA,0,4+0+0+0+0+0+0,4,4
+2020_21,1,1,Adam Haluška,3,GHMich,0,4+0+0+0+0+0+0,4,4
+2020_21,1,1,Matej Kurbel,8zš,cirkevnazssered,0,4+0+0+0+0+0+0,4,4
+2020_21,1,1,Patrik Kočan,4,Iná škola,0,2+0+0+0+0+0+0,2,2
+2020_21,1,1,Andrej T. Dobrev,4,GJH,0,0+0+0+0+0+0+0,0,0
+2020_21,1,1,Kristina Rybarova,4,GĽŠTN,0,0+0+0+0+0+0+0,0,0
+2020_21,1,1,Dominika Brillová,9zš,Iná škola,0,0+0+0+0+0+0+0,0,0
+2020_21,1,1,Tomas Sušina,2,GBajkBA,0,0+0+0+0+0+0+0,0,0

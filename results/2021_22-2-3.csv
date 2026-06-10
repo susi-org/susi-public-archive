@@ -1,93 +1,93 @@
-table_year;table_part;table_round;name;school_year;school;points_before;points;points_sum;points_after
-2021_22;2;3;Michal Forišek;27;GPopPP;96;6,6,6,6,6;30;126
-2021_22;2;3;Jakub Šošovička;3;SZScenada;90;6,6,6,6,6;30;120
-2021_22;2;3;Matúš Pokorný;9zš;GAMČA;88;6,6,6,6,6;30;118
-2021_22;2;3;Martin Štěpánek;3;GJH;76;6,6,0,6,6;24;100
-2021_22;2;3;Viktor Balan;4;GAMČA;84;6,6,0,0,0;12;96
-2021_22;2;3;Matej Bachniček;9zš;ŠpMNDaG;74;6,6,4,0,4;20;94
-2021_22;2;3;Matúš Duchyňa;3;GAMČA;58;6,6,6,6,0;24;82
-2021_22;2;3;Martin Belluš;3;GAMČA;52;6,6,6,6,6;30;82
-2021_22;2;3;Matej Zigo;3;ŠpMNDaG;58;6,6,2,1,2;17;75
-2021_22;2;3;Matej Haverlík;4;GJH;62;6,6,0,0,0;12;74
-2021_22;2;3;Martina Mladá;1;GMalac;52;0,6,6,0,6;18;70
-2021_22;2;3;Ela Vojtková;4;GAMČA;52;0,6,4,4,4;18;70
-2021_22;2;3;Oliver Lago;4;GBilBA;46;4,6,4,6,4;24;70
-2021_22;2;3;Michal Urban;3;GAMČA;38;6,6,6,6,6;30;68
-2021_22;2;3;Daniel Jandora;11;Iná škola;64;0,0,0,0,0;0;64
-2021_22;2;3;Berta Papulová;4;GAMČA;50;0,6,6,0,0;12;62
-2021_22;2;3;Magdaléna Bečková;8;FMFI UK;48;0,6,6,0,0;12;60
-2021_22;2;3;Nela Ďanovská;4;ŠpMNDaG;44;6,6,2,2,0;16;60
-2021_22;2;3;Pavol Pivko;4;GAMČA;52;0,6,0,0,0;6;58
-2021_22;2;3;Alžbeta Klimentová;2;GPošKE;52;0,6,0,0,0;6;58
-2021_22;2;3;Erik Tóth;3;GJH;28;6,6,6,6,6;30;58
-2021_22;2;3;Marek Majerik;2;GAMČA;56;0,0,0,0,0;0;56
-2021_22;2;3;Anamária Šutková;3;ŠpMNDaG;54;0,0,0,0,0;0;54
-2021_22;2;3;Michaela Kontrišová;1;GJH;48;6,0,0,0,0;6;54
-2021_22;2;3;Martina Gaňová;3;GBAS;40;0,4,6,0,4;14;54
-2021_22;2;3;Roman Žitňanský;2;ŠpMNDaG;30;6,6,6,0,6;24;54
-2021_22;2;3;Ján Plachý;4;GPriev;48;2,0,0,0,2;4;52
-2021_22;2;3;Matúš Hladký;4;ŠpMNDaG;46;6,0,0,0,0;6;52
-2021_22;2;3;Simona Šimočková;2;GĽŠTN;40;0,6,0,6,0;12;52
-2021_22;2;3;Natália Banasová;2;GPiešť;50;0,0,0,0,0;0;50
-2021_22;2;3;Soňa Vasiľová;1;GPUK;44;0,6,0,0,0;6;50
-2021_22;2;3;Matej Repa;3;GAMČA;20;6,6,6,6,6;30;50
-2021_22;2;3;Jakub Beran;20;GALEJE;48;0,0,0,0,0;0;48
-2021_22;2;3;Lucie Guštafíková;1;GJH;48;0,0,0,0,0;0;48
-2021_22;2;3;Jozef Rajník;12;FMFI UK;42;0,6,0,0,0;6;48
-2021_22;2;3;Jakub Šiagi;1;GAMČA;42;0,6,0,0,0;6;48
-2021_22;2;3;Peter Beňo;3;GLevic;38;0,6,0,0,0;6;44
-2021_22;2;3;Katarína Gersová;1;GJH;42;0,0,0,0,0;0;42
-2021_22;2;3;Miriam Haverlíková;2;Iná škola;36;0,6,0,0,0;6;42
-2021_22;2;3;Filip Jay Doba;3;ŠpMNDaG;38;0,2,0,0,0;2;40
-2021_22;2;3;Sara Gašparová;3;GAMČA;28;0,6,0,0,6;12;40
-2021_22;2;3;Michal Pajtáš;4;GAMČA;32;0,6,0,0,0;6;38
-2021_22;2;3;Veronika Plachá;2;GPriev;30;2,2,2,0,2;8;38
-2021_22;2;3;Zuzana Mičeková;1;GJH;36;0,0,0,0,0;0;36
-2021_22;2;3;Marek Murin;10;FMFI UK;36;0,0,0,0,0;0;36
-2021_22;2;3;Alica Cimráková;1;GBAS;36;0,0,0,0,0;0;36
-2021_22;2;3;Jakub Skaloš;4;ŠpMNDaG;20;4,4,4,0,4;16;36
-2021_22;2;3;Martin Kollár;36;GAMČA;34;0,0,0,0,0;0;34
-2021_22;2;3;Sofia Djurbová;1;EGLM;34;0,0,0,0,0;0;34
-2021_22;2;3;Zuzana Hladká;3;ŠpMNDaG;28;0,0,4,2,0;6;34
-2021_22;2;3;Martin Šindelář;2;GAMČA;33;0,0,0,0,0;0;33
-2021_22;2;3;Klaudia Rybárová;9zš;Iná škola;30;0,0,0,0,0;0;30
-2021_22;2;3;Michaela Vicáňová;2;GDKubí;30;0,0,0,0,0;0;30
-2021_22;2;3;Emília Laurincová;1;GJH;30;0,0,0,0,0;0;30
-2021_22;2;3;Stanislav Bezák;3;ŠpMNDaG;24;0,6,0,0,0;6;30
-2021_22;2;3;Michal Almáši;3;GPMKE;20;0,6,4,0,0;10;30
-2021_22;2;3;Jozef Smolár;1;GNám;28;0,0,0,0,0;0;28
-2021_22;2;3;Alexandra Barančíková;3;ŠpMNDaG;22;0,4,2,0,0;6;28
-2021_22;2;3;Lenka Juranová;1;gymkepler;22;0,6,0,0,0;6;28
-2021_22;2;3;Laura Skalošová;2;ŠpMNDaG;16;0,6,0,0,6;12;28
-2021_22;2;3;Matúš Jonaštík;2;GAMČA;26;0,0,0,0,0;0;26
-2021_22;2;3;Timotej Bezák;1;ŠpMNDaG;24;0,0,0,0,0;0;24
-2021_22;2;3;Adam Džavoronok;3;GPošKE;24;0,0,0,0,0;0;24
-2021_22;2;3;Alica Dományová;2;GAMČA;22;0,0,0,2,0;2;24
-2021_22;2;3;Helena Muchová;9zš;gymkepler;16;6,0,0,0,0;6;22
-2021_22;2;3;Viktória Košická;1;GAMČA;20;0,0,0,0,0;0;20
-2021_22;2;3;Lukáš Gáborik;5;FMFI UK;8;0,6,0,0,6;12;20
-2021_22;2;3;Martin Králik;20;GAMČA;18;0,0,0,0,0;0;18
-2021_22;2;3;Alžbeta Kováčová;2;GJH;18;0,0,0,0,0;0;18
-2021_22;2;3;Iva Jancigova;26;Iná škola;18;0,0,0,0,0;0;18
-2021_22;2;3;Miriam Horváthová;3;GŠMich;18;0,0,0,0,0;0;18
-2021_22;2;3;Michaela Vdoviaková;3;GJH;16;0,0,0,0,0;0;16
-2021_22;2;3;Vít Hanika;3;gymkepler;4;0,6,4,0,2;12;16
-2021_22;2;3;Aneta Stachová;1;Iná škola;12;0,0,0,0,0;0;12
-2021_22;2;3;Adam Zich;2;ŠpMNDaG;12;0,0,0,0,0;0;12
-2021_22;2;3;Barbora Marcinčáková;3;GALEJE;12;0,0,0,0,0;0;12
-2021_22;2;3;Matúš Královič;2;GPárNR;12;0,0,0,0,0;0;12
-2021_22;2;3;Alex Luis Šutka;7zš;ŠpMNDaG;12;0,0,0,0,0;0;12
-2021_22;2;3;Peter Kumančík;2;GAMČA;10;0,0,0,0,0;0;10
-2021_22;2;3;Eliška Macáková;2;SZScenada;6;0,0,0,0,0;0;6
-2021_22;2;3;Tomáš Zatroch;4;ŠpMNDaG;6;0,0,0,0,0;0;6
-2021_22;2;3;Mária Mičeková;5;GJH;6;0,0,0,0,0;0;6
-2021_22;2;3;Matej Novosad;4;ŠpMNDaG;6;0,0,0,0,0;0;6
-2021_22;2;3;Michal Pecho;4;SDubn;6;0,0,0,0,0;0;6
-2021_22;2;3;Stanislav Barčák;2;GVOZA;6;0,0,0,0,0;0;6
-2021_22;2;3;Richard Bíró;8;FMFI UK;6;0,0,0,0,0;0;6
-2021_22;2;3;Jakub Drobný;4;ŠpMNDaG;6;0,0,0,0,0;0;6
-2021_22;2;3;Peter Deván;3;ŠpMNDaG;6;0,0,0,0,0;0;6
-2021_22;2;3;Pavol Almáši;4;Iná škola;6;0,0,0,0,0;0;6
-2021_22;2;3;Martin Bekeč;2;ŠpMNDaG;4;0,0,0,0,0;0;4
-2021_22;2;3;Alexandra Kontrišová;8zš;GJH;2;0,0,0,0,0;0;2
-2021_22;2;3;Linda Mičicová;9zš;GBAS;0;0,0,0,0,0;0;0
+table_year,table_part,table_round,name,school_year,school,points_before,points,points_sum,points_after
+2021_22,2,3,Michal Forišek,27,GPopPP,96,6+6+6+6+6,30,126
+2021_22,2,3,Jakub Šošovička,3,SZScenada,90,6+6+6+6+6,30,120
+2021_22,2,3,Matúš Pokorný,9zš,GAMČA,88,6+6+6+6+6,30,118
+2021_22,2,3,Martin Štěpánek,3,GJH,76,6+6+0+6+6,24,100
+2021_22,2,3,Viktor Balan,4,GAMČA,84,6+6+0+0+0,12,96
+2021_22,2,3,Matej Bachniček,9zš,ŠpMNDaG,74,6+6+4+0+4,20,94
+2021_22,2,3,Matúš Duchyňa,3,GAMČA,58,6+6+6+6+0,24,82
+2021_22,2,3,Martin Belluš,3,GAMČA,52,6+6+6+6+6,30,82
+2021_22,2,3,Matej Zigo,3,ŠpMNDaG,58,6+6+2+1+2,17,75
+2021_22,2,3,Matej Haverlík,4,GJH,62,6+6+0+0+0,12,74
+2021_22,2,3,Martina Mladá,1,GMalac,52,0+6+6+0+6,18,70
+2021_22,2,3,Ela Vojtková,4,GAMČA,52,0+6+4+4+4,18,70
+2021_22,2,3,Oliver Lago,4,GBilBA,46,4+6+4+6+4,24,70
+2021_22,2,3,Michal Urban,3,GAMČA,38,6+6+6+6+6,30,68
+2021_22,2,3,Daniel Jandora,11,Iná škola,64,0+0+0+0+0,0,64
+2021_22,2,3,Berta Papulová,4,GAMČA,50,0+6+6+0+0,12,62
+2021_22,2,3,Magdaléna Bečková,8,FMFI UK,48,0+6+6+0+0,12,60
+2021_22,2,3,Nela Ďanovská,4,ŠpMNDaG,44,6+6+2+2+0,16,60
+2021_22,2,3,Pavol Pivko,4,GAMČA,52,0+6+0+0+0,6,58
+2021_22,2,3,Alžbeta Klimentová,2,GPošKE,52,0+6+0+0+0,6,58
+2021_22,2,3,Erik Tóth,3,GJH,28,6+6+6+6+6,30,58
+2021_22,2,3,Marek Majerik,2,GAMČA,56,0+0+0+0+0,0,56
+2021_22,2,3,Anamária Šutková,3,ŠpMNDaG,54,0+0+0+0+0,0,54
+2021_22,2,3,Michaela Kontrišová,1,GJH,48,6+0+0+0+0,6,54
+2021_22,2,3,Martina Gaňová,3,GBAS,40,0+4+6+0+4,14,54
+2021_22,2,3,Roman Žitňanský,2,ŠpMNDaG,30,6+6+6+0+6,24,54
+2021_22,2,3,Ján Plachý,4,GPriev,48,2+0+0+0+2,4,52
+2021_22,2,3,Matúš Hladký,4,ŠpMNDaG,46,6+0+0+0+0,6,52
+2021_22,2,3,Simona Šimočková,2,GĽŠTN,40,0+6+0+6+0,12,52
+2021_22,2,3,Natália Banasová,2,GPiešť,50,0+0+0+0+0,0,50
+2021_22,2,3,Soňa Vasiľová,1,GPUK,44,0+6+0+0+0,6,50
+2021_22,2,3,Matej Repa,3,GAMČA,20,6+6+6+6+6,30,50
+2021_22,2,3,Jakub Beran,20,GALEJE,48,0+0+0+0+0,0,48
+2021_22,2,3,Lucie Guštafíková,1,GJH,48,0+0+0+0+0,0,48
+2021_22,2,3,Jozef Rajník,12,FMFI UK,42,0+6+0+0+0,6,48
+2021_22,2,3,Jakub Šiagi,1,GAMČA,42,0+6+0+0+0,6,48
+2021_22,2,3,Peter Beňo,3,GLevic,38,0+6+0+0+0,6,44
+2021_22,2,3,Katarína Gersová,1,GJH,42,0+0+0+0+0,0,42
+2021_22,2,3,Miriam Haverlíková,2,Iná škola,36,0+6+0+0+0,6,42
+2021_22,2,3,Filip Jay Doba,3,ŠpMNDaG,38,0+2+0+0+0,2,40
+2021_22,2,3,Sara Gašparová,3,GAMČA,28,0+6+0+0+6,12,40
+2021_22,2,3,Michal Pajtáš,4,GAMČA,32,0+6+0+0+0,6,38
+2021_22,2,3,Veronika Plachá,2,GPriev,30,2+2+2+0+2,8,38
+2021_22,2,3,Zuzana Mičeková,1,GJH,36,0+0+0+0+0,0,36
+2021_22,2,3,Marek Murin,10,FMFI UK,36,0+0+0+0+0,0,36
+2021_22,2,3,Alica Cimráková,1,GBAS,36,0+0+0+0+0,0,36
+2021_22,2,3,Jakub Skaloš,4,ŠpMNDaG,20,4+4+4+0+4,16,36
+2021_22,2,3,Martin Kollár,36,GAMČA,34,0+0+0+0+0,0,34
+2021_22,2,3,Sofia Djurbová,1,EGLM,34,0+0+0+0+0,0,34
+2021_22,2,3,Zuzana Hladká,3,ŠpMNDaG,28,0+0+4+2+0,6,34
+2021_22,2,3,Martin Šindelář,2,GAMČA,33,0+0+0+0+0,0,33
+2021_22,2,3,Klaudia Rybárová,9zš,Iná škola,30,0+0+0+0+0,0,30
+2021_22,2,3,Michaela Vicáňová,2,GDKubí,30,0+0+0+0+0,0,30
+2021_22,2,3,Emília Laurincová,1,GJH,30,0+0+0+0+0,0,30
+2021_22,2,3,Stanislav Bezák,3,ŠpMNDaG,24,0+6+0+0+0,6,30
+2021_22,2,3,Michal Almáši,3,GPMKE,20,0+6+4+0+0,10,30
+2021_22,2,3,Jozef Smolár,1,GNám,28,0+0+0+0+0,0,28
+2021_22,2,3,Alexandra Barančíková,3,ŠpMNDaG,22,0+4+2+0+0,6,28
+2021_22,2,3,Lenka Juranová,1,gymkepler,22,0+6+0+0+0,6,28
+2021_22,2,3,Laura Skalošová,2,ŠpMNDaG,16,0+6+0+0+6,12,28
+2021_22,2,3,Matúš Jonaštík,2,GAMČA,26,0+0+0+0+0,0,26
+2021_22,2,3,Timotej Bezák,1,ŠpMNDaG,24,0+0+0+0+0,0,24
+2021_22,2,3,Adam Džavoronok,3,GPošKE,24,0+0+0+0+0,0,24
+2021_22,2,3,Alica Dományová,2,GAMČA,22,0+0+0+2+0,2,24
+2021_22,2,3,Helena Muchová,9zš,gymkepler,16,6+0+0+0+0,6,22
+2021_22,2,3,Viktória Košická,1,GAMČA,20,0+0+0+0+0,0,20
+2021_22,2,3,Lukáš Gáborik,5,FMFI UK,8,0+6+0+0+6,12,20
+2021_22,2,3,Martin Králik,20,GAMČA,18,0+0+0+0+0,0,18
+2021_22,2,3,Alžbeta Kováčová,2,GJH,18,0+0+0+0+0,0,18
+2021_22,2,3,Iva Jancigova,26,Iná škola,18,0+0+0+0+0,0,18
+2021_22,2,3,Miriam Horváthová,3,GŠMich,18,0+0+0+0+0,0,18
+2021_22,2,3,Michaela Vdoviaková,3,GJH,16,0+0+0+0+0,0,16
+2021_22,2,3,Vít Hanika,3,gymkepler,4,0+6+4+0+2,12,16
+2021_22,2,3,Aneta Stachová,1,Iná škola,12,0+0+0+0+0,0,12
+2021_22,2,3,Adam Zich,2,ŠpMNDaG,12,0+0+0+0+0,0,12
+2021_22,2,3,Barbora Marcinčáková,3,GALEJE,12,0+0+0+0+0,0,12
+2021_22,2,3,Matúš Královič,2,GPárNR,12,0+0+0+0+0,0,12
+2021_22,2,3,Alex Luis Šutka,7zš,ŠpMNDaG,12,0+0+0+0+0,0,12
+2021_22,2,3,Peter Kumančík,2,GAMČA,10,0+0+0+0+0,0,10
+2021_22,2,3,Eliška Macáková,2,SZScenada,6,0+0+0+0+0,0,6
+2021_22,2,3,Tomáš Zatroch,4,ŠpMNDaG,6,0+0+0+0+0,0,6
+2021_22,2,3,Mária Mičeková,5,GJH,6,0+0+0+0+0,0,6
+2021_22,2,3,Matej Novosad,4,ŠpMNDaG,6,0+0+0+0+0,0,6
+2021_22,2,3,Michal Pecho,4,SDubn,6,0+0+0+0+0,0,6
+2021_22,2,3,Stanislav Barčák,2,GVOZA,6,0+0+0+0+0,0,6
+2021_22,2,3,Richard Bíró,8,FMFI UK,6,0+0+0+0+0,0,6
+2021_22,2,3,Jakub Drobný,4,ŠpMNDaG,6,0+0+0+0+0,0,6
+2021_22,2,3,Peter Deván,3,ŠpMNDaG,6,0+0+0+0+0,0,6
+2021_22,2,3,Pavol Almáši,4,Iná škola,6,0+0+0+0+0,0,6
+2021_22,2,3,Martin Bekeč,2,ŠpMNDaG,4,0+0+0+0+0,0,4
+2021_22,2,3,Alexandra Kontrišová,8zš,GJH,2,0+0+0+0+0,0,2
+2021_22,2,3,Linda Mičicová,9zš,GBAS,0,0+0+0+0+0,0,0

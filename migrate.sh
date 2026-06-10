@@ -104,9 +104,11 @@ for year in *_*; do
             echo "$year/$part/$round_no: $(ls -1 | wc -l) problems"
             ln -s ../../../problems/"$year-$part-$round_no-p".pdf problems.pdf
             ln -s ../../../solutions/"$year-$part-$round_no-s".pdf solutions.pdf
-            if [[ "$arg1" = *R* ]]; then
+            if [[ -e ../../../results.csv.tmp ]]; then
                 head -n 1 ../../../results.csv.tmp > ../../../results/"$year-$part-$round_no".csv
                 grep "$year;$part;$round_no" ../../../results.csv.tmp >> ../../../results/"$year-$part-$round_no".csv
+            fi
+            if [[ -e ../../../results/"$year-$part-$round_no".csv ]]; then
                 ln -s ../../../results/"$year-$part-$round_no".csv results.csv
             fi
             cd ..

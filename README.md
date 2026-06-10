@@ -4,13 +4,22 @@
 
 Aktuálne súťaže, ktoré organizuje SuŠi, nájdete na [https://susi.sk](https://susi.sk). 
 
-## Abecedný zoznam organizátorov, ktorí prispeli k fungovaniu SuŠi:
+## Organizátori SuŠi:
+
+Ľudia, ktorí prispeli tvorbou šifier, recenzovaním, vymýšlaním nápadov, testovaním, pomocou s technickým zabezpečením, vedúcovaním sústredení...
+Zoznam určite nie je kompletný.
 
 - Viktor Balan
+- Jozef Bachniček
+- Peter Beňo
+- Stanislav Bezák
 - Michal Farnbauer
+- Lukáš Gáborík
 - Martina Gaňová
+- Adam Gramblička
 - Matea Haverlík
 - Marianna Hronská
+- Timea Jakubócyová
 - Adriana Janáčková
 - Gwen Lago
 - Dušan Kavický
@@ -18,15 +27,19 @@ Aktuálne súťaže, ktoré organizuje SuŠi, nájdete na [https://susi.sk](http
 - Michal Molnár
 - Matej "Krtko" Novota
 - Peter "Bubu" Onduš
-- Michal Pajtáš
+- Michal "Pajty" Pajtáš
 - Veronika Plachá
 - Ján "Janči" Plachý
 - Viktória Pravdová
 - Kristína Prešinská
 - Tereza Prokopová
-- Jakub Skaloš
+- Jozef Rajník
+- Marek Sádovský
+- Jakub "Skaloš" Skaloš
 - Michal Staník
+- Martin "Štepi" Štepánek
 - Daniel Teplan
+- Roman Žitňanský
 
 ## Odkazy na fotoalbumy zo sústredení
 
